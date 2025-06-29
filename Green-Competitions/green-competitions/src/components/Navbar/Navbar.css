@@ -1,0 +1,66 @@
+.n-wrapper {
+  height: 10vh;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+  top: 0;
+}
+
+.n-left {
+  flex: 1;
+  align-items: center;
+  justify-content: left;
+  display: flex;
+  gap: 10rem;
+}
+
+.n-name {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+.n-right {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  font-weight: 400;
+}
+
+.n-list {
+  flex: 30;
+  white-space: nowrap; /* Prevents wrapping to multiple lines */
+  overflow: hidden; /* Hides overflowing content */
+  text-overflow: ellipsis; /* Displays ellipsis (...) for truncated content */
+}
+
+.n-list > ul {
+  display: flex;
+  gap: 13rem;
+  margin-right: 4rem;
+
+  overflow-x: auto; /* Adds horizontal scroll for overflowing content */
+}
+
+.n-list > ul li {
+  flex-shrink: 0; /* Prevents the list items from shrinking */
+}
+
+.n-list > ul li a {
+  white-space: nowrap; /* Prevents wrapping of individual list items */
+}
+
+.n-list > ul :hover {
+  color: var(--orange);
+  cursor: pointer;
+}
+
+.n-button {
+  flex: 2;
+}
+
+@media screen and (max-width: 480px) {
+  .n-list {
+    display: none;
+  }
+}

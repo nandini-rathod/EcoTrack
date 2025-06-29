@@ -1,0 +1,2021 @@
+[{
+  "StationCode": "TBM",
+  "StationName": "Tambaram",
+  "Place": "Tambaram"
+},{
+  "StationCode": "MS",
+  "StationName": "Chennai Egmore Chennai",
+  "Place": "Egmore"
+},{
+  "StationCode": "MAS",
+  "StationName": "Puratchi Thalaivar Dr. MGR Central",
+  "Place": "Chennai"
+},{
+  "StationCode": "KPD",
+  "StationName": "Katpadi Junction",
+  "Place": "Katpadi,Vellore"
+},{
+  "StationCode": "AJJ",
+  "StationName": "Arakkonam Junction",
+  "Place": "Arakkonam"
+},{
+  "StationCode": "CBE",
+  "StationName": "Coimbatore Junction",
+  "Place": "Coimbatore"
+},{
+  "StationCode": "CGL",
+  "StationName": "Chengalpattu Junction",
+  "Place": "Chengalpattu"
+},{
+  "StationCode": "MDU",
+  "StationName": "Madurai Junction",
+  "Place": "Madurai"
+},{
+  "StationCode": "JTJ",
+  "StationName": "Jolarpettai Junction",
+  "Place": "Jolarpettai"
+},{
+  "StationCode": "SA",
+  "StationName": "Salem Junction",
+  "Place": "Salem"
+},{
+  "StationCode": "ED",
+  "StationName": "Erode Junction",
+  "Place": "Erode"
+},{
+  "StationCode": "TUP",
+  "StationName": "Tiruppur",
+  "Place": "Tiruppur"
+},{
+  "StationCode": "VM",
+  "StationName": "Villupuram Junction",
+  "Place": "Villupuram"
+},{
+  "StationCode": "TPJ",
+  "StationName": "Tiruchirappalli",
+  "Place": "Tiruchirapalli"
+},{
+  "StationCode": "DG",
+  "StationName": "Dindigul Junction",
+  "Place": "Dindigul"
+},{
+  "StationCode": "PER",
+  "StationName": "Perambur",
+  "Place": "Perambur"
+},{
+  "StationCode": "TJ",
+  "StationName": "Thanjavur Junction",
+  "Place": "Thanjavur"
+},{
+  "StationCode": "TEN",
+  "StationName": "Tirunelveli Junction",
+  "Place": "Tirunelveli"
+},{
+  "StationCode": "NCJ",
+  "StationName": "Nagercoil Junction",
+  "Place": "Nagercoil"
+},{
+  "StationCode": "TRL",
+  "StationName": "Tiruvallur",
+  "Place": "Tiruvallur"
+},{
+  "StationCode": "AVD",
+  "StationName": "Avadi",
+  "Place": "Avadi"
+},{
+  "StationCode": "PRGL",
+  "StationName": "Perungulattur",
+  "Place": "Perungulattur"
+},{
+  "StationCode": "RMM",
+  "StationName": "Rameswaram",
+  "Place": "Rameswaram"
+},{
+  "StationCode": "GI",
+  "StationName": "Guduvancheri",
+  "Place": "Guduvancheri"
+},{
+  "StationCode": "TN",
+  "StationName": "Tuticorin",
+  "Place": "Tuticorin"
+},{
+  "StationCode": "VPT",
+  "StationName": "Virudunagar Junction",
+  "Place": "Virudunagar"
+},{
+  "StationCode": "CVP",
+  "StationName": "Kovilpatti",
+  "Place": "Kovilpatti"
+},{
+  "StationCode": "KRR",
+  "StationName": "Karur Junction",
+  "Place": "Karur"
+},{
+  "StationCode": "MV",
+  "StationName": "Mayiladuturai Junction",
+  "Place": "Mayiladuturai"
+},{
+  "StationCode": "KMU",
+  "StationName": "Kumbakonam",
+  "Place": "Kumbakonam"
+},{
+  "StationCode": "TRT",
+  "StationName": "Tiruttani",
+  "Place": "Tiruttani"
+},{
+  "StationCode": "HSRA",
+  "StationName": "Hosur",
+  "Place": "Hosur"
+},{
+  "StationCode": "RMD",
+  "StationName": "Ramanathapuram",
+  "Place": "Ramanathapuram"
+},{
+  "StationCode": "NGT",
+  "StationName": "Nagappattinam Junction",
+  "Place": "Nagappattinam"
+},{
+  "StationCode": "MTP",
+  "StationName": "Mettupalayam",
+  "Place": "Metupalaiyam"
+},{
+  "StationCode": "SKL",
+  "StationName": "Singaperumal Koil Singaperumal",
+  "Place": "Koil"
+},{
+  "StationCode": "CAPE",
+  "StationName": "Kanniyakumari",
+  "Place": "Kanyakumari"
+},{
+  "StationCode": "SRT",
+  "StationName": "Satur",
+  "Place": "Satur"
+},{
+  "StationCode": "MLMR",
+  "StationName": "Melmaruvathur",
+  "Place": "Melmaruvattur"
+},{
+  "StationCode": "KQN",
+  "StationName": "Kodai road Kodai",
+  "Place": "road"
+},{
+  "StationCode": "MEJ",
+  "StationName": "Vanchi Maniyachchi Junction",
+  "Place": "Maniyachchi"
+},{
+  "StationCode": "TMV",
+  "StationName": "Tindivanam",
+  "Place": "Tindivanam"
+},{
+  "StationCode": "VLY",
+  "StationName": "Valliyur",
+  "Place": "Valliyur"
+},{
+  "StationCode": "VN",
+  "StationName": "Vaniyambadi",
+  "Place": "Vaniyambadi"
+},{
+  "StationCode": "MNM",
+  "StationName": "Manamadurai Junction",
+  "Place": "Maanamadurai"
+},{
+  "StationCode": "WJR",
+  "StationName": "Walajah Road Junction Walajah",
+  "Place": "Road"
+},{
+  "StationCode": "GYM",
+  "StationName": "Gudiyattam",
+  "Place": "Gudiyattam"
+},{
+  "StationCode": "PMK",
+  "StationName": "Paramakkudi",
+  "Place": "Paramakkudi"
+},{
+  "StationCode": "KZT",
+  "StationName": "Kuzhithurai",
+  "Place": "Marthandam"
+},{
+  "StationCode": "KKDI",
+  "StationName": "Karaikkudi Junction",
+  "Place": "Karaikkudi"
+},{
+  "StationCode": "PDKT",
+  "StationName": "Pudukkottai",
+  "Place": "Pudukkottai"
+},{
+  "StationCode": "DKO",
+  "StationName": "Devakottai Road Devakottai",
+  "Place": "Road"
+},{
+  "StationCode": "SVGA",
+  "StationName": "Sivaganga",
+  "Place": "Sivaganga"
+},{
+  "StationCode": "ERL",
+  "StationName": "Eraniel",
+  "Place": "Eraniel"
+},{
+  "StationCode": "TSI",
+  "StationName": "Tenkasi Junction",
+  "Place": "Tenkasi"
+},{
+  "StationCode": "SNKL",
+  "StationName": "Sankarankovil",
+  "Place": "Sankarankovil"
+},{
+  "StationCode": "RJPM",
+  "StationName": "Rajapalayam",
+  "Place": "Rajapalayam"
+},{
+  "StationCode": "SDN",
+  "StationName": "Sholavandan",
+  "Place": "Sholavandan"
+},{
+  "StationCode": "KDNL",
+  "StationName": "Kadayanallur",
+  "Place": "Kadaynallur"
+},{
+  "StationCode": "NNN",
+  "StationName": "Nanguneri",
+  "Place": "Nanguneri"
+},{
+  "StationCode": "SVKS",
+  "StationName": "Sivakasi",
+  "Place": "Sivakasi"
+},{
+  "StationCode": "SVPR",
+  "StationName": "Srivilliputtur",
+  "Place": "Srivilliputtur"
+},{
+  "StationCode": "SCT",
+  "StationName": "Sengottai",
+  "Place": "Sengottai"
+},{
+  "StationCode": "TMQ",
+  "StationName": "Tirumangalam",
+  "Place": "Tirumangalam"
+},{
+  "StationCode": "PLNI",
+  "StationName": "Palani",
+  "Place": "Palani"
+},{
+  "StationCode": "TTL",
+  "StationName": "Tiruttangal",
+  "Place": "Tiruttangal"
+},{
+  "StationCode": "CJ",
+  "StationName": "Kanchipuram",
+  "Place": "Kanchipuram"
+},{
+  "StationCode": "POY",
+  "StationName": "Pollachi Junction",
+  "Place": "Pollachi"
+},{
+  "StationCode": "TDN",
+  "StationName": "Tirupparankundram",
+  "Place": "Tiruparankndrm"
+},{
+  "StationCode": "ASD",
+  "StationName": "Ambasamudram",
+  "Place": "Ambasamudram"
+},{
+  "StationCode": "ODC",
+  "StationName": "Oddanchatram",
+  "Place": "Oddanchatram"
+},{
+  "StationCode": "NZT",
+  "StationName": "Nazareth",
+  "Place": "Nazareth"
+},{
+  "StationCode": "VDR",
+  "StationName": "Vandalur",
+  "Place": "Vandalur"
+},{
+  "StationCode": "TCN",
+  "StationName": "Tiruchendur",
+  "Place": "Tiruchendur"
+},{
+  "StationCode": "MMM",
+  "StationName": "Mandapam",
+  "Place": "Mandapam"
+},{
+  "StationCode": "MCN",
+  "StationName": "Mukundarayapuram",
+  "Place": "Mukundarayapuram"
+},{
+  "StationCode": "MVN",
+  "StationName": "Milavittan",
+  "Place": "Thoothukudi"
+},{
+  "StationCode": "KDU",
+  "StationName": "Kadambur",
+  "Place": "Kadambur"
+},{
+  "StationCode": "MPA",
+  "StationName": "Manaparai",
+  "Place": "Manaparai"
+},{
+  "StationCode": "MMK",
+  "StationName": "Madurantakam",
+  "Place": "Madurantakam"
+},{
+  "StationCode": "CTND",
+  "StationName": "Chettinad",
+  "Place": "Chettinad"
+},{
+  "StationCode": "AAY",
+  "StationName": "Aralvaymozhi",
+  "Place": "Aralvaymozhi"
+},{
+  "StationCode": "PBKS",
+  "StationName": "Pambakovil Shandy",
+  "Place": "PMBAKVL_SHANDY"
+},{
+  "StationCode": "SMD",
+  "StationName": "Cheranmahadevi",
+  "Place": "Cheranmahadevi"
+},{
+  "StationCode": "SVV",
+  "StationName": "Srivaikuntam",
+  "Place": "Srivaikuntam"
+},{
+  "StationCode": "KZB",
+  "StationName": "Kurumbur",
+  "Place": "Kurumbur"
+},{
+  "StationCode": "NPK",
+  "StationName": "North Panakudi North",
+  "Place": "Panakudi"
+},{
+  "StationCode": "KZY",
+  "StationName": "Kayalpattinam",
+  "Place": "Arumuganeri"
+},{
+  "StationCode": "ABI",
+  "StationName": "Ambaturai",
+  "Place": "Ambaturai"
+},{
+  "StationCode": "API",
+  "StationName": "Akkaraippatti",
+  "Place": "Akkaraippatti"
+},{
+  "StationCode": "PBM",
+  "StationName": "Pamban",
+  "Place": "Pamban"
+},{
+  "StationCode": "CHPT",
+  "StationName": "Chatrappatti",
+  "Place": "Chatrappatti"
+},{
+  "StationCode": "NKK",
+  "StationName": "Narikkudi",
+  "Place": "Narikkudi"
+},{
+  "StationCode": "TCH",
+  "StationName": "Tiruchchuli",
+  "Place": "Tiruchchuli"
+},{
+  "StationCode": "SDNR",
+  "StationName": "Seydunganallur",
+  "Place": "Seydunganallur"
+},{
+  "StationCode": "ANY",
+  "StationName": "Arumuganeri",
+  "Place": "Arumuganeri"
+},{
+  "StationCode": "PCM",
+  "StationName": "Pavurchatram",
+  "Place": "Pavurchatram"
+},{
+  "StationCode": "KAL",
+  "StationName": "Kallal",
+  "Place": "Kallal"
+},{
+  "StationCode": "KLPM",
+  "StationName": "Kailasapuram",
+  "Place": "Kailasapuram"
+},{
+  "StationCode": "KKY",
+  "StationName": "Kizhakadaiyam",
+  "Place": "Kizhakadaiyam"
+},{
+  "StationCode": "KON",
+  "StationName": "Kudalnagar",
+  "Place": "Kudalnagar"
+},{
+  "StationCode": "VDM",
+  "StationName": "Vadamadura",
+  "Place": "Vadamadura"
+},{
+  "StationCode": "VDP",
+  "StationName": "Vadippatti",
+  "Place": "Vadippatti"
+},{
+  "StationCode": "KRUR",
+  "StationName": "Keeranur",
+  "Place": "Keeranur"
+},{
+  "StationCode": "PNGI",
+  "StationName": "Panangudi",
+  "Place": "Panangudi"
+},{
+  "StationCode": "CII",
+  "StationName": "Chettiyapatti",
+  "Place": "Chettiyapatti"
+},{
+  "StationCode": "MES",
+  "StationName": "Madurai East Madurai",
+  "Place": "East"
+},{
+  "StationCode": "SUX",
+  "StationName": "Sudiyur",
+  "Place": "Sudiyur"
+},{
+  "StationCode": "MVRD",
+  "StationName": "Maivadi",
+  "Place": "Road"
+},{
+  "StationCode": "SQD",
+  "StationName": "Sattirakkudi",
+  "Place": "Sattirakkudi"
+},{
+  "StationCode": "KYZ",
+  "StationName": "Kizha Puliyur Kizha",
+  "Place": "Puliyur"
+},{
+  "StationCode": "MTE",
+  "StationName": "Mettur",
+  "Place": "Mettur"
+},{
+  "StationCode": "SER",
+  "StationName": "Samayanallur",
+  "Place": "Samayanallur"
+},{
+  "StationCode": "KFC",
+  "StationName": "Kalpattichatram",
+  "Place": "Kalpattichatram"
+},{
+  "StationCode": "TAY",
+  "StationName": "Talaiyuthu",
+  "Place": "Talaiyuthu"
+},{
+  "StationCode": "VPJ",
+  "StationName": "Vaiyampatti",
+  "Place": "Valyampatti"
+},{
+  "StationCode": "SGLM",
+  "StationName": "Sengulam",
+  "Place": "Sengulam"
+},{
+  "StationCode": "TIP",
+  "StationName": "Tattapparai",
+  "Place": "Tattapparai"
+},{
+  "StationCode": "KTYR",
+  "StationName": "Kottaiyur",
+  "Place": "Kottaiyur"
+},{
+  "StationCode": "TPC",
+  "StationName": "Tiruppachetti",
+  "Place": "Tirupati"
+},{
+  "StationCode": "AWT",
+  "StationName": "Alwar Tirunagri Alwar",
+  "Place": "Tirunagri"
+},{
+  "StationCode": "TVN",
+  "StationName": "Tiruppuvanam",
+  "Place": "Tiruppuvanam"
+},{
+  "StationCode": "UCP",
+  "StationName": "Uchippuli",
+  "Place": "Uchippuli"
+},{
+  "StationCode": "AYR",
+  "StationName": "Ayyalur",
+  "Place": "Ayyalur"
+},{
+  "StationCode": "MDKI",
+  "StationName": "Madukarai (Coimbatore) Madukarai",
+  "Place": "(Coimbatore)"
+},{
+  "StationCode": "PUG",
+  "StationName": "Punggudi",
+  "Place": "Punggudi"
+},{
+  "StationCode": "GDN",
+  "StationName": "Gangaikondan",
+  "Place": "Gangaikondan"
+},{
+  "StationCode": "NRK",
+  "StationName": "Naraikkinar",
+  "Place": "Naraikkinar"
+},{
+  "StationCode": "TYT",
+  "StationName": "Tirunelveli Town",
+  "Place": "Tirunelveli"
+},{
+  "StationCode": "TMP",
+  "StationName": "Tamaraipadi",
+  "Place": "Tamaraipadi"
+},{
+  "StationCode": "KLS",
+  "StationName": "Kolatur",
+  "Place": "Kolatur"
+},{
+  "StationCode": "MEKM",
+  "StationName": "Melakkonnakkulam",
+  "Place": "Melakkonnakkulam"
+},{
+  "StationCode": "ILA",
+  "StationName": "Silaiman",
+  "Place": "Silsiman"
+},{
+  "StationCode": "PEA",
+  "StationName": "Pettai",
+  "Place": "Pettai"
+},{
+  "StationCode": "PCO",
+  "StationName": "Palayamkottai",
+  "Place": "Palayankottai"
+},{
+  "StationCode": "ETMD",
+  "StationName": "Ettimadai Ettimadai",
+  "Place": "(Coimbatore)"
+},{
+  "StationCode": "TTQ",
+  "StationName": "Thathankulam",
+  "Place": "Thathankulam"
+},{
+  "StationCode": "KGD",
+  "StationName": "Kalligudi",
+  "Place": "Kalligudi"
+},{
+  "StationCode": "TY",
+  "StationName": "Tulukapati",
+  "Place": "Tulukapati"
+},{
+  "StationCode": "TYM",
+  "StationName": "Tirumayam",
+  "Place": "Tirumayam"
+},{
+  "StationCode": "KIC",
+  "StationName": "Kallidaikurichi",
+  "Place": "Kallidaikurichi"
+},{
+  "StationCode": "KCHV",
+  "StationName": "Kachchanvilai",
+  "Place": "Kachchanvilai"
+},{
+  "StationCode": "KRMG",
+  "StationName": "Kumaramangalam",
+  "Place": "Kumaramangalam"
+},{
+  "StationCode": "RVS",
+  "StationName": "Ravanasamudram",
+  "Place": "Ravanasamudram"
+},{
+  "StationCode": "MSB",
+  "StationName": "Chennai Beach Chennai",
+  "Place": "Beach"
+},{
+  "StationCode": "GDY",
+  "StationName": "Guindy",
+  "Place": "Guindy"
+},{
+  "StationCode": "PZA",
+  "StationName": "Palavantangal",
+  "Place": "Pazhavanthangal"
+},{
+  "StationCode": "MBM",
+  "StationName": "Mambalam",
+  "Place": "Chennai"
+},{
+  "StationCode": "ABU",
+  "StationName": "Ambattur",
+  "Place": "Ambattur"
+},{
+  "StationCode": "STM",
+  "StationName": "St. Thomas Mount St Thomas",
+  "Place": "Mount"
+},{
+  "StationCode": "ANNR",
+  "StationName": "Annanur",
+  "Place": "Annanur"
+},{
+  "StationCode": "VLK",
+  "StationName": "Villivakkam",
+  "Place": "Villivakkam"
+},{
+  "StationCode": "CMP",
+  "StationName": "Chromepet",
+  "Place": "Chromepet"
+},{
+  "StationCode": "TBMS",
+  "StationName": "Tambaram Sanatorium Tambaram",
+  "Place": "Sanatorium"
+},{
+  "StationCode": "MJR",
+  "StationName": "Minjur",
+  "Place": "Minjur"
+},{
+  "StationCode": "MKK",
+  "StationName": "Kodambakkam",
+  "Place": "Kodambakam"
+},{
+  "StationCode": "TI",
+  "StationName": "Tiruninravur",
+  "Place": "Tiruninravur"
+},{
+  "StationCode": "VJM",
+  "StationName": "Vyasarpadijiva",
+  "Place": "Chennai"
+},{
+  "StationCode": "PV",
+  "StationName": "Pallavaram",
+  "Place": "Pallavaram"
+},{
+  "StationCode": "BBQ",
+  "StationName": "Basin Bridge Junction Basin",
+  "Place": "Bridge"
+},{
+  "StationCode": "TMVL",
+  "StationName": "Tirumullaivayil",
+  "Place": "Tirumullaivayil"
+},{
+  "StationCode": "PAB",
+  "StationName": "Pattabiram",
+  "Place": "Pattabiram"
+},{
+  "StationCode": "PCW",
+  "StationName": "Perambur Carriage Works Perambur Carriage",
+  "Place": "Works"
+},{
+  "StationCode": "MSC",
+  "StationName": "Chennai Chetpat Chennai",
+  "Place": "Chetpat"
+},{
+  "StationCode": "SP",
+  "StationName": "Saidapet",
+  "Place": "Saidapet"
+},{
+  "StationCode": "KOK",
+  "StationName": "Korukkupet",
+  "Place": "Korukkupettai"
+},{
+  "StationCode": "PEW",
+  "StationName": "Perambur Locomotive Works Perambur Locomotive",
+  "Place": "Works"
+},{
+  "StationCode": "AIP",
+  "StationName": "Athipattu",
+  "Place": "Attippattu"
+},{
+  "StationCode": "KBT",
+  "StationName": "Kadambattur",
+  "Place": "Kadambattur"
+},{
+  "StationCode": "HC",
+  "StationName": "Hindu College Hindu",
+  "Place": "College"
+},{
+  "StationCode": "VRI",
+  "StationName": "Vriddhachalam Junction",
+  "Place": "Vridhachalam"
+},{
+  "StationCode": "CDM",
+  "StationName": "Chidambaram",
+  "Place": "Chidambaram"
+},{
+  "StationCode": "AB",
+  "StationName": "Ambur",
+  "Place": "Ambur"
+},{
+  "StationCode": "ALU",
+  "StationName": "Ariyalur",
+  "Place": "Ariyalur"
+},{
+  "StationCode": "TDPR",
+  "StationName": "Thirupadiripuliyur",
+  "Place": "Tirupadripuliyur"
+},{
+  "StationCode": "SY",
+  "StationName": "Sirkazhi",
+  "Place": "Sirkazhi"
+},{
+  "StationCode": "PTJ",
+  "StationName": "Podanur Junction",
+  "Place": "Podanur"
+},{
+  "StationCode": "SRGM",
+  "StationName": "Srirangam",
+  "Place": "Srirangam"
+},{
+  "StationCode": "DPJ",
+  "StationName": "Dharmapuri",
+  "Place": "Dharmapuri"
+},{
+  "StationCode": "TPT",
+  "StationName": "Tirupattur",
+  "Place": "Tirupattur"
+},{
+  "StationCode": "BAL",
+  "StationName": "Budalur",
+  "Place": "Budalur"
+},{
+  "StationCode": "CUPJ",
+  "StationName": "Cuddalore Port Junction Cuddalore",
+  "Place": "Port"
+},{
+  "StationCode": "TVR",
+  "StationName": "Thiruvarur Junction",
+  "Place": "Thiruvarur"
+},{
+  "StationCode": "MAP",
+  "StationName": "Morappur",
+  "Place": "Morappur"
+},{
+  "StationCode": "SHU",
+  "StationName": "Sholinghur",
+  "Place": "Sholinghur"
+},{
+  "StationCode": "PML",
+  "StationName": "Papanasam",
+  "Place": "Papanasam"
+},{
+  "StationCode": "NMJ",
+  "StationName": "Nidamangalam Junction",
+  "Place": "Nidamangalam"
+},{
+  "StationCode": "BQI",
+  "StationName": "Bommidi",
+  "Place": "Bommidi"
+},{
+  "StationCode": "ADT",
+  "StationName": "Aduturai",
+  "Place": "Aduturai"
+},{
+  "StationCode": "PGR",
+  "StationName": "Pugalur",
+  "Place": "Pugalur"
+},{
+  "StationCode": "CBF",
+  "StationName": "Coimbatore North Coimbatore",
+  "Place": "North"
+},{
+  "StationCode": "TRB",
+  "StationName": "Tiruverumbur",
+  "Place": "Tiruverumbur"
+},{
+  "StationCode": "KMD",
+  "StationName": "Kodumudi",
+  "Place": "Kodumudi"
+},{
+  "StationCode": "KTM",
+  "StationName": "Kutralam",
+  "Place": "Kutralam"
+},{
+  "StationCode": "VLT",
+  "StationName": "Valathoor",
+  "Place": "Valathoor"
+},{
+  "StationCode": "VDL",
+  "StationName": "Vaithisvarankoil",
+  "Place": "Vaitheeswarankoil"
+},{
+  "StationCode": "PRT",
+  "StationName": "Panruti",
+  "Place": "Panruti"
+},{
+  "StationCode": "TP",
+  "StationName": "Tiruchchirappalli Fort Tiruchirapalli",
+  "Place": "Fort"
+},{
+  "StationCode": "NCR",
+  "StationName": "Nagore",
+  "Place": "Nagore"
+},{
+  "StationCode": "AVN",
+  "StationName": "Anavardikhanpettai",
+  "Place": "Anavardikhanpet"
+},{
+  "StationCode": "TME",
+  "StationName": "Tuti Melur Tuti",
+  "Place": "Melur"
+},{
+  "StationCode": "KLT",
+  "StationName": "Kulitalai",
+  "Place": "Kulitalai"
+},{
+  "StationCode": "GOC",
+  "StationName": "Ponmalai Golden Rock Ponmalai Golden",
+  "Place": "Rock"
+},{
+  "StationCode": "PEM",
+  "StationName": "Peralam Junction",
+  "Place": "Peralam"
+},{
+  "StationCode": "LLI",
+  "StationName": "Lalgudi",
+  "Place": "Lalgudi"
+},{
+  "StationCode": "SKPT",
+  "StationName": "Somanayakkanpatti",
+  "Place": "Somanayakkanpti"
+},{
+  "StationCode": "GPD",
+  "StationName": "Gummidipundi",
+  "Place": "Gummidipundi"
+},{
+  "StationCode": "MPI",
+  "StationName": "Melpatti",
+  "Place": "Melpatti"
+},{
+  "StationCode": "PU",
+  "StationName": "Patchur",
+  "Place": "Patchur"
+},{
+  "StationCode": "SLY",
+  "StationName": "Samalpatti",
+  "Place": "Samalpatti"
+},{
+  "StationCode": "OML",
+  "StationName": "Omalur Junction",
+  "Place": "Omalur"
+},{
+  "StationCode": "PNDM",
+  "StationName": "Pennadam",
+  "Place": "Pennadam"
+},{
+  "StationCode": "UKL",
+  "StationName": "Uttukuli",
+  "Place": "Uttukuli"
+},{
+  "StationCode": "MEH",
+  "StationName": "Melalathur",
+  "Place": "Melalathur"
+},{
+  "StationCode": "CBU",
+  "StationName": "Chinna Babu Samudram",
+  "Place": "Cbabusamudram"
+},{
+  "StationCode": "TPTN",
+  "StationName": "Tiruchchirappalli Town Tiruchrpali",
+  "Place": "Twn"
+},{
+  "StationCode": "CTRE",
+  "StationName": "Chitteri",
+  "Place": "Chitteri"
+},{
+  "StationCode": "THL",
+  "StationName": "Tiruvalam",
+  "Place": "Tiruvalam"
+},{
+  "StationCode": "PCV",
+  "StationName": "Palakkodu",
+  "Place": "Palakkodu"
+},{
+  "StationCode": "PLMD",
+  "StationName": "Pilamedu Pilamedu",
+  "Place": "(Coimbatore)"
+},{
+  "StationCode": "TUG",
+  "StationName": "Thalangai",
+  "Place": "Thalangai"
+},{
+  "StationCode": "KKPM",
+  "StationName": "Kallakkudi Palanganatham Kallakkudi",
+  "Place": "Plgh"
+},{
+  "StationCode": "URL",
+  "StationName": "Unjalur",
+  "Place": "Unjalur"
+},{
+  "StationCode": "TLM",
+  "StationName": "Tirusulam",
+  "Place": "Tirusulam"
+},{
+  "StationCode": "MPLM",
+  "StationName": "Murthipalayam",
+  "Place": "Marthipalayam"
+},{
+  "StationCode": "PYD",
+  "StationName": "Palliyadi",
+  "Place": "Palliyadi"
+},{
+  "StationCode": "KZTW",
+  "StationName": "Kuzhithurai West Kulitturai",
+  "Place": "West"
+},{
+  "StationCode": "MMH",
+  "StationName": "Mahadanapuram",
+  "Place": "Mahadanapuram"
+},{
+  "StationCode": "PLI",
+  "StationName": "Pettaivayatalai",
+  "Place": "Pettaivayatalai"
+},{
+  "StationCode": "VLNK",
+  "StationName": "Velankanni",
+  "Place": "Velankanni"
+},{
+  "StationCode": "MQ",
+  "StationName": "Mannargudi",
+  "Place": "Mannargudi"
+},{
+  "StationCode": "VLR",
+  "StationName": "Vellore Cantonment",
+  "Place": "Vellore"
+},{
+  "StationCode": "NMKL",
+  "StationName": "Namakkal",
+  "Place": "Namakkal"
+},{
+  "StationCode": "TNM",
+  "StationName": "Tiruvannamalai",
+  "Place": "Tiruvannamalai"
+},{
+  "StationCode": "RASP",
+  "StationName": "Rasipuram",
+  "Place": "Rasipuram"
+},{
+  "StationCode": "ARV",
+  "StationName": "Arni Road Arni",
+  "Place": "Road"
+},{
+  "StationCode": "KXT",
+  "StationName": "Ketti",
+  "Place": "Ketti"
+},{
+  "StationCode": "LOV",
+  "StationName": "Lovedale",
+  "Place": "Lovedale"
+},{
+  "StationCode": "WEL",
+  "StationName": "Wellington",
+  "Place": "Wellington"
+},{
+  "StationCode": "TRK",
+  "StationName": "Tirukkovilur",
+  "Place": "Tirukoilur"
+},{
+  "StationCode": "AVK",
+  "StationName": "Aravankadu",
+  "Place": "Aravankadu"
+},{
+  "StationCode": "NJT",
+  "StationName": "Nagercoil Town",
+  "Place": "Nagercoil"
+},{
+  "StationCode": "SGE",
+  "StationName": "Sankaridurg",
+  "Place": "Sankaridrug"
+},{
+  "StationCode": "CHSM",
+  "StationName": "Chinna Salem Chinna",
+  "Place": "Salem"
+},{
+  "StationCode": "ATU",
+  "StationName": "Attur",
+  "Place": "Aattur"
+},{
+  "StationCode": "PRL",
+  "StationName": "Polur",
+  "Place": "Polur"
+},{
+  "StationCode": "SXT",
+  "StationName": "Salem Town",
+  "Place": "Salem"
+},{
+  "StationCode": "KDE",
+  "StationName": "Koradacheri",
+  "Place": "Koradacheri"
+},{
+  "StationCode": "ONR",
+  "StationName": "Coonoor",
+  "Place": "Coonoor"
+},{
+  "StationCode": "MNLI",
+  "StationName": "Manali",
+  "Place": "Halt"
+},{
+  "StationCode": "APN",
+  "StationName": "Ayodhyapattanam",
+  "Place": "Ayodhiyapatinam"
+},{
+  "StationCode": "TTP",
+  "StationName": "Tiruturaipundi",
+  "Place": "Junction"
+},{
+  "StationCode": "ETP",
+  "StationName": "Ettapur Road Ettapur",
+  "Place": "Road"
+},{
+  "StationCode": "MONR",
+  "StationName": "Mohanur",
+  "Place": "Mohanur"
+},{
+  "StationCode": "MTT",
+  "StationName": "Mutupet",
+  "Place": "Mutupet"
+},{
+  "StationCode": "PALM",
+  "StationName": "Palaiyam",
+  "Place": "Palaiyam"
+},{
+  "StationCode": "KNPL",
+  "StationName": "Kandanur",
+  "Place": "Puduvayal"
+},{
+  "StationCode": "PON",
+  "StationName": "Ponneri",
+  "Place": "Ponneri"
+},{
+  "StationCode": "MARD",
+  "StationName": "Mavur",
+  "Place": "Road"
+},{
+  "StationCode": "BDY",
+  "StationName": "Buddireddipatti",
+  "Place": "Buddireddippati"
+},{
+  "StationCode": "VGE",
+  "StationName": "Valappadi Gate",
+  "Place": "Vazhapadi"
+},{
+  "StationCode": "IGU",
+  "StationName": "Irugur Junction Irugur",
+  "Place": "(Coimbatore)"
+},{
+  "StationCode": "ANU",
+  "StationName": "Anangur",
+  "Place": "Anangur"
+},{
+  "StationCode": "VRPD",
+  "StationName": "Virapandy Road Virapandy",
+  "Place": "Road"
+},{
+  "StationCode": "CV",
+  "StationName": "Kaveri",
+  "Place": "Kaveri"
+},{
+  "StationCode": "DC",
+  "StationName": "Magudanchavadi",
+  "Place": "Magudanchavadi"
+},{
+  "StationCode": "MVPM",
+  "StationName": "Mavelipalaiyam",
+  "Place": "Mavelipalaiyam"
+},{
+  "StationCode": "MCRD",
+  "StationName": "Mecheri Road Mecheri",
+  "Place": "Road"
+},{
+  "StationCode": "PMB",
+  "StationName": "Pullambadi",
+  "Place": "Pullambadi"
+},{
+  "StationCode": "DSPT",
+  "StationName": "Danishpet",
+  "Place": "Danishpet"
+},{
+  "StationCode": "DST",
+  "StationName": "Dasampatti",
+  "Place": "Dasampatti"
+},{
+  "StationCode": "ACK",
+  "StationName": "Acharapakkam",
+  "Place": "Acharapakkam"
+},{
+  "StationCode": "SUU",
+  "StationName": "Sulur Road Sulur Road",
+  "Place": "(Coimbatore)"
+},{
+  "StationCode": "NBK",
+  "StationName": "Nungambakkam",
+  "Place": "Nungambakkam"
+},{
+  "StationCode": "VEI",
+  "StationName": "Velliyani",
+  "Place": "Velliyani"
+},{
+  "StationCode": "VEL",
+  "StationName": "Vellanur",
+  "Place": "Vellanur"
+},{
+  "StationCode": "VER",
+  "StationName": "Vellur Halt",
+  "Place": "Vellur"
+},{
+  "StationCode": "SPL",
+  "StationName": "Sundaraperumal Kovil",
+  "Place": "SundaraperumalKoil"
+},{
+  "StationCode": "VEU",
+  "StationName": "Veppampattu",
+  "Place": "Veppampattu"
+},{
+  "StationCode": "KDMD",
+  "StationName": "Kandambakkam",
+  "Place": "Kandambakkam"
+},{
+  "StationCode": "VGM",
+  "StationName": "Vinnamangalam",
+  "Place": "Vinnamangalam"
+},{
+  "StationCode": "SGM",
+  "StationName": "Solgampatti",
+  "Place": "Solgampatti"
+},{
+  "StationCode": "VJ",
+  "StationName": "Virinchipuram",
+  "Place": "Virinchipuram"
+},{
+  "StationCode": "NVL",
+  "StationName": "Neyveli",
+  "Place": "Neyveli"
+},{
+  "StationCode": "VKM",
+  "StationName": "Venkatesapuram",
+  "Place": "Venkatesapuram"
+},{
+  "StationCode": "MYU",
+  "StationName": "Mayanoor",
+  "Place": "Mayanoor"
+},{
+  "StationCode": "PDKM",
+  "StationName": "Pedanayakanpalayam",
+  "Place": "Pedanayakanpalayam"
+},{
+  "StationCode": "VT",
+  "StationName": "Vellore Town",
+  "Place": "Vellore"
+},{
+  "StationCode": "POI",
+  "StationName": "Ponpadi",
+  "Place": "Ponpadi"
+},{
+  "StationCode": "KKTI",
+  "StationName": "Kuttakudi",
+  "Place": "Kuttakudi"
+},{
+  "StationCode": "VPY",
+  "StationName": "Vyasarpadi",
+  "Place": "Vyasarpadi"
+},{
+  "StationCode": "LP",
+  "StationName": "Lalapet",
+  "Place": "Lalapet"
+},{
+  "StationCode": "VKP",
+  "StationName": "Varakalpattu",
+  "Place": "Varakalpattu"
+},{
+  "StationCode": "KDY",
+  "StationName": "Kettandapatti",
+  "Place": "Kettandapatti"
+},{
+  "StationCode": "NEC",
+  "StationName": "Nemilicherry Halt",
+  "Place": "Nemilicherry"
+},{
+  "StationCode": "SVR",
+  "StationName": "Sevvapet Road Sevvapet",
+  "Place": "Road"
+},{
+  "StationCode": "POTI",
+  "StationName": "Potheri",
+  "Place": "Potheri"
+},{
+  "StationCode": "SVUR",
+  "StationName": "Sevur",
+  "Place": "Sevur"
+},{
+  "StationCode": "SWI",
+  "StationName": "Swamimalai",
+  "Place": "Swamimalai"
+},{
+  "StationCode": "VLDE",
+  "StationName": "Valadi",
+  "Place": "Valadi"
+},{
+  "StationCode": "APB",
+  "StationName": "Anuppambattu",
+  "Place": "Anuppambattu"
+},{
+  "StationCode": "CJE",
+  "StationName": "Kanchipuram East Kanchipuram",
+  "Place": "East"
+},{
+  "StationCode": "APE",
+  "StationName": "Andanappettai",
+  "Place": "Andanappettai"
+},{
+  "StationCode": "KMM",
+  "StationName": "Kannamangalam",
+  "Place": "Kannamangalam"
+},{
+  "StationCode": "KNB",
+  "StationName": "Kaniyambadi",
+  "Place": "Kaniyambadi"
+},{
+  "StationCode": "MTDM",
+  "StationName": "Mettur Dam Mettur",
+  "Place": "Dam"
+},{
+  "StationCode": "KEY",
+  "StationName": "Kagankarai",
+  "Place": "Kagankarai"
+},{
+  "StationCode": "SXR",
+  "StationName": "Serndanur",
+  "Place": "Serndanur"
+},{
+  "StationCode": "VMP",
+  "StationName": "Vallampadugai",
+  "Place": "Vallampadugai"
+},{
+  "StationCode": "EDU",
+  "StationName": "Eriodu",
+  "Place": "Eriodu"
+},{
+  "StationCode": "VNJ",
+  "StationName": "Vanjipalayam Tiruppur",
+  "Place": "Vanjipalayam"
+},{
+  "StationCode": "VRQ",
+  "StationName": "Virarakkiyam",
+  "Place": "Virarakkiyam"
+},{
+  "StationCode": "EGT",
+  "StationName": "Egattur Halt",
+  "Place": "Egattur"
+},{
+  "StationCode": "VOC",
+  "StationName": "V.O.C Nagar V.0.c.",
+  "Place": "Nagar"
+},{
+  "StationCode": "PNTR",
+  "StationName": "Pennathur Halt",
+  "Place": "Pennathur"
+},{
+  "StationCode": "ELR",
+  "StationName": "Elavur",
+  "Place": "Elavur"
+},{
+  "StationCode": "ENR",
+  "StationName": "Ennore",
+  "Place": "Ennore"
+},{
+  "StationCode": "SZV",
+  "StationName": "Sivadi",
+  "Place": "Sivadi"
+},{
+  "StationCode": "KGZ",
+  "StationName": "Karunguzhi",
+  "Place": "Karunguzhi"
+},{
+  "StationCode": "MASS",
+  "StationName": "Chennai Central Suburban",
+  "Place": "Chennai"
+},{
+  "StationCode": "KTTR",
+  "StationName": "Kattur",
+  "Place": "Kattur"
+},{
+  "StationCode": "PRKL",
+  "StationName": "Parikkal",
+  "Place": "Parikkal"
+},{
+  "StationCode": "VRLR",
+  "StationName": "Virani Alur Virani",
+  "Place": "Alur"
+},{
+  "StationCode": "ICG",
+  "StationName": "Ichchangadu",
+  "Place": "Ichchangadu"
+},{
+  "StationCode": "VRT",
+  "StationName": "Vriddhachalam Town",
+  "Place": "Vriddhachalam"
+},{
+  "StationCode": "CQS",
+  "StationName": "Capper Quarry Capper",
+  "Place": "Quarry"
+},{
+  "StationCode": "KU",
+  "StationName": "Kulikarai",
+  "Place": "Kulikarai"
+},{
+  "StationCode": "SHI",
+  "StationName": "Singanallur",
+  "Place": "Singanallur"
+},{
+  "StationCode": "PRNT",
+  "StationName": "Periyanagathunai Periyanaga",
+  "Place": "Thunai"
+},{
+  "StationCode": "IGR",
+  "StationName": "Ingur",
+  "Place": "Ingur"
+},{
+  "StationCode": "PRV",
+  "StationName": "Pukkiravari",
+  "Place": "Pukkirivari"
+},{
+  "StationCode": "TOM",
+  "StationName": "Tondamanpatti",
+  "Place": "Tondamanpatti"
+},{
+  "StationCode": "NMN",
+  "StationName": "Namanasamudram",
+  "Place": "Namanasamudram"
+},{
+  "StationCode": "PRWS",
+  "StationName": "Pattabiram West Cabin Pattabiram",
+  "Place": "West"
+},{
+  "StationCode": "VTV",
+  "StationName": "Valantaravai",
+  "Place": "Valantaravai"
+},{
+  "StationCode": "KXO",
+  "StationName": "Kudikadu",
+  "Place": "Kudikadu"
+},{
+  "StationCode": "CTM",
+  "StationName": "Kattangulattur",
+  "Place": "Kattangulattur"
+},{
+  "StationCode": "VVN",
+  "StationName": "Vikravandi",
+  "Place": "Vikravandi"
+},{
+  "StationCode": "VXM",
+  "StationName": "Vellipalayam",
+  "Place": "Vellipalayam"
+},{
+  "StationCode": "VZ",
+  "StationName": "Vijayamangalam",
+  "Place": "Vijayamangalam"
+},{
+  "StationCode": "PVM",
+  "StationName": "Pattaravakkam",
+  "Place": "Pattaravakkam"
+},{
+  "StationCode": "AYM",
+  "StationName": "Adiyakkamangalam",
+  "Place": "Adiyakkamangalam"
+},{
+  "StationCode": "NPKM",
+  "StationName": "Nandiambakkam",
+  "Place": "Nandiyampakkam"
+},{
+  "StationCode": "WCN",
+  "StationName": "Wimco Nagar Wimco",
+  "Place": "Nagar"
+},{
+  "StationCode": "AZP",
+  "StationName": "Ayyampet",
+  "Place": "Ayyampet"
+},{
+  "StationCode": "CVD",
+  "StationName": "Chavadipalaiyam",
+  "Place": "Chavadipalaiyam"
+},{
+  "StationCode": "KII",
+  "StationName": "Kille",
+  "Place": "Kille"
+},{
+  "StationCode": "KVL",
+  "StationName": "Kizhvelur",
+  "Place": "Kizhvelur"
+},{
+  "StationCode": "PTLR",
+  "StationName": "Putlur Halt",
+  "Place": "Putlur"
+},{
+  "StationCode": "KVLR",
+  "StationName": "Karuvalli",
+  "Place": "Karuvalli"
+},{
+  "StationCode": "WJ",
+  "StationName": "Walajabad",
+  "Place": "Walajabad"
+},{
+  "StationCode": "KVN",
+  "StationName": "Kavanur",
+  "Place": "Kavanur"
+},{
+  "StationCode": "KVP",
+  "StationName": "Kavaraippettai",
+  "Place": "Kavaraippettai"
+},{
+  "StationCode": "PUC",
+  "StationName": "Puduchatiram",
+  "Place": "Puduchatiram"
+},{
+  "StationCode": "MCJ",
+  "StationName": "Manjattidal",
+  "Place": "Thiruchirapalli"
+},{
+  "StationCode": "WST",
+  "StationName": "Washermanpet",
+  "Place": "Washermanpet"
+},{
+  "StationCode": "THX",
+  "StationName": "Tovalai",
+  "Place": "Tovalai"
+},{
+  "StationCode": "TIC",
+  "StationName": "Timmachipuram",
+  "Place": "Timmachipuram"
+},{
+  "StationCode": "SKK",
+  "StationName": "Sikkal",
+  "Place": "Sikkal"
+},{
+  "StationCode": "PVL",
+  "StationName": "Pasupatikovil",
+  "Place": "Pasupatikovil"
+},{
+  "StationCode": "ANP",
+  "StationName": "Anandatandavapuram",
+  "Place": "Anandtandavpur"
+},{
+  "StationCode": "VRA",
+  "StationName": "Valavanur",
+  "Place": "Valavanur"
+},{
+  "StationCode": "KLGN",
+  "StationName": "Kalangani",
+  "Place": "Kalangani"
+},{
+  "StationCode": "MLYR",
+  "StationName": "Melnariyapanur",
+  "Place": "Melnariyapanur"
+},{
+  "StationCode": "PVN",
+  "StationName": "Puvanur",
+  "Place": "Puvanur"
+},{
+  "StationCode": "NTT",
+  "StationName": "Nathapettai",
+  "Place": "Nathapettai"
+},{
+  "StationCode": "PWU",
+  "StationName": "Paranur",
+  "Place": "Paranur"
+},{
+  "StationCode": "MALR",
+  "StationName": "Mallur",
+  "Place": "Mallur"
+},{
+  "StationCode": "MMNK",
+  "StationName": "Maraimalai Nagar Maraimalai",
+  "Place": "Nagar"
+},{
+  "StationCode": "MMP",
+  "StationName": "Mambalappattu",
+  "Place": "Mambalappattu"
+},{
+  "StationCode": "TKO",
+  "StationName": "Takkolam",
+  "Place": "Takkolam"
+},{
+  "StationCode": "PY",
+  "StationName": "Perundurai",
+  "Place": "Perundurai"
+},{
+  "StationCode": "PYV",
+  "StationName": "Pazhaya Seevaram Pazhaya",
+  "Place": "Seevaram"
+},{
+  "StationCode": "KYV",
+  "StationName": "Koyilvenni",
+  "Place": "Koyilvenni"
+},{
+  "StationCode": "AGM",
+  "StationName": "Agaram Sibbandi Agaram",
+  "Place": "Sibbandi"
+},{
+  "StationCode": "NNM",
+  "StationName": "Nannilam",
+  "Place": "Nannilam"
+},{
+  "StationCode": "SLTH",
+  "StationName": "Sillakkudi",
+  "Place": "Sillakkudi"
+},{
+  "StationCode": "JPM",
+  "StationName": "Jiyapuram",
+  "Place": "Jiyapuram"
+},{
+  "StationCode": "AIPP",
+  "StationName": "Attipattu Pudu Nagar Attipattu Pudu",
+  "Place": "Nagar"
+},{
+  "StationCode": "POM",
+  "StationName": "Punthottam",
+  "Place": "Punthottam"
+},{
+  "StationCode": "MTNL",
+  "StationName": "Muttarasanallur",
+  "Place": "Muttarasanallur"
+},{
+  "StationCode": "MTL",
+  "StationName": "Mailam",
+  "Place": "Mailam"
+},{
+  "StationCode": "KLGM",
+  "StationName": "Kallagam",
+  "Place": "Kallagam"
+},{
+  "StationCode": "SMDM",
+  "StationName": "Samudram",
+  "Place": "Samudram"
+},{
+  "StationCode": "TLNR",
+  "StationName": "Talanallur",
+  "Place": "Talanallur"
+},{
+  "StationCode": "SMDT",
+  "StationName": "Semmandappatti",
+  "Place": "Semmandappatti"
+},{
+  "StationCode": "TPE",
+  "StationName": "Tiruchchirappalli Palakkarai Tiruchirapalli",
+  "Place": "PLKI"
+},{
+  "StationCode": "MCL",
+  "StationName": "Madimangalam",
+  "Place": "Madimangalam"
+},{
+  "StationCode": "AZK",
+  "StationName": "Azhwarkurichi",
+  "Place": "Azhwarkurichi"
+},{
+  "StationCode": "MYP",
+  "StationName": "Mundiyampakkam",
+  "Place": "Mundilyampakkam"
+},{
+  "StationCode": "VNGL",
+  "StationName": "Vangal",
+  "Place": "Vangal"
+},{
+  "StationCode": "TRM",
+  "StationName": "Tirunagesvaram",
+  "Place": "Tirunagesvaram"
+},{
+  "StationCode": "OLA",
+  "StationName": "Olakur",
+  "Place": "Olakur"
+},{
+  "StationCode": "TMLP",
+  "StationName": "Tirumalpur",
+  "Place": "Tirumalpur"
+},{
+  "StationCode": "UMG",
+  "StationName": "Uttangal Mangalam Uttangal",
+  "Place": "Mangalam"
+},{
+  "StationCode": "LCR",
+  "StationName": "Lokur",
+  "Place": "Lokur"
+},{
+  "StationCode": "SMM",
+  "StationName": "Saliyamangalam",
+  "Place": "Saliyamangalam"
+},{
+  "StationCode": "UAM",
+  "StationName": "Udagamandalam",
+  "Place": "Udagamandalam"
+},{
+  "StationCode": "PAS",
+  "StationName": "Pasur",
+  "Place": "Pasur"
+},{
+  "StationCode": "MDVE",
+  "StationName": "Mahendra Vadi Mahendra",
+  "Place": "Vadi"
+},{
+  "StationCode": "TMU",
+  "StationName": "Tirumanthikunam",
+  "Place": "Tirumanthikunam"
+},{
+  "StationCode": "NID",
+  "StationName": "Nidur",
+  "Place": "Neivasal"
+},{
+  "StationCode": "MP",
+  "StationName": "Melappalaiyam",
+  "Place": "Melappalaiyam"
+},{
+  "StationCode": "MPC",
+  "StationName": "Muttampatti",
+  "Place": "Muttampatti"
+},{
+  "StationCode": "VLU",
+  "StationName": "Vadalur",
+  "Place": "Vadalur"
+},{
+  "StationCode": "AYD",
+  "StationName": "Ayandur",
+  "Place": "Ayandur"
+},{
+  "StationCode": "TNGR",
+  "StationName": "Thonganur",
+  "Place": "Thonganur"
+},{
+  "StationCode": "OTK",
+  "StationName": "Ottakovil",
+  "Place": "Ottakovil"
+},{
+  "StationCode": "OPM",
+  "StationName": "Onnupuram",
+  "Place": "Onnupuram"
+},{
+  "StationCode": "TDR",
+  "StationName": "Tiruvidaimarudur",
+  "Place": "Tiruvidaimarudur"
+},{
+  "StationCode": "MPK",
+  "StationName": "Chennai Park",
+  "Place": "Chennai"
+},{
+  "StationCode": "RDY",
+  "StationName": "Reddipalayam",
+  "Place": "Redipalayam"
+},{
+  "StationCode": "NPM",
+  "StationName": "Nellikuppam",
+  "Place": "Nellikuppan"
+},{
+  "StationCode": "NPT",
+  "StationName": "Narasingampet",
+  "Place": "Narasingampet"
+},{
+  "StationCode": "KMLM",
+  "StationName": "Kelamangalam",
+  "Place": "Kelamangalam"
+},{
+  "StationCode": "TNP",
+  "StationName": "Tondiarpet",
+  "Place": "Tondiarpettai"
+},{
+  "StationCode": "PALR",
+  "StationName": "Palur",
+  "Place": "Palur"
+},{
+  "StationCode": "VVR",
+  "StationName": "Viravanallur",
+  "Place": "Viravanallur"
+},{
+  "StationCode": "TNT",
+  "StationName": "Tinnappatti",
+  "Place": "Tinnappatti"
+},{
+  "StationCode": "SNDI",
+  "StationName": "Sendurai",
+  "Place": "Sendurai"
+},{
+  "StationCode": "TO",
+  "StationName": "Tiruvalangadu",
+  "Place": "Tiruvalangadu"
+},{
+  "StationCode": "TPM",
+  "StationName": "Totiyapalayam",
+  "Place": "Totiyapalayam"
+},{
+  "StationCode": "SNO",
+  "StationName": "Somanur Tiruppur",
+  "Place": "Somanur"
+},{
+  "StationCode": "MKSP",
+  "StationName": "Mukhasa Parur Mukhasa",
+  "Place": "Parur"
+},{
+  "StationCode": "OV",
+  "StationName": "Ottivakkam",
+  "Place": "Otivakkam"
+},{
+  "StationCode": "PCKM",
+  "StationName": "Pachchakuppam",
+  "Place": "Pachachakupam"
+},{
+  "StationCode": "TPP",
+  "StationName": "Toppur",
+  "Place": "Toppur"
+},{
+  "StationCode": "PGN",
+  "StationName": "Perugamani",
+  "Place": "Perugamani"
+},{
+  "StationCode": "MMCC",
+  "StationName": "Chennai Moore Market Complex Chennai Moore Market",
+  "Place": "Complex"
+},{
+  "StationCode": "EL",
+  "StationName": "Elamanur",
+  "Place": "Elamanur"
+},{
+  "StationCode": "MN",
+  "StationName": "Minambakkam",
+  "Place": "Minambakkam"
+},{
+  "StationCode": "KNNT",
+  "StationName": "Kunnathur",
+  "Place": "Kunnathur"
+},{
+  "StationCode": "KARK",
+  "StationName": "Karaikkurichi",
+  "Place": "Karaikkurichi"
+},{
+  "StationCode": "PDV",
+  "StationName": "Pandaravadai",
+  "Place": "Pandaravadai"
+},{
+  "StationCode": "MSF",
+  "StationName": "Chennai Fort Chennai",
+  "Place": "Fort"
+},{
+  "StationCode": "SPAM",
+  "StationName": "Senji Panambakkam Senji",
+  "Place": "Panambakkam"
+},{
+  "StationCode": "MPLI",
+  "StationName": "Minnampalli",
+  "Place": "Minnampalli"
+},{
+  "StationCode": "MSU",
+  "StationName": "Mosur",
+  "Place": "Mosur"
+},{
+  "StationCode": "TT",
+  "StationName": "Titte",
+  "Place": "Titte"
+},{
+  "StationCode": "MC",
+  "StationName": "Mandapam Camp Mandapam",
+  "Place": "Camp"
+},{
+  "StationCode": "AMT",
+  "StationName": "Ammapet",
+  "Place": "Ammapet"
+},{
+  "StationCode": "AND",
+  "StationName": "Andampaliam",
+  "Place": "Andampaliam"
+},{
+  "StationCode": "SRVT",
+  "StationName": "Siruvattur",
+  "Place": "Siruvattur"
+},{
+  "StationCode": "PRES",
+  "StationName": "Pattabiram E",
+  "Place": "Depot"
+},{
+  "StationCode": "BXS",
+  "StationName": "Pichchandarkovil",
+  "Place": "Pichchandarkovil"
+},{
+  "StationCode": "TUY",
+  "StationName": "Thiruthuraiyur",
+  "Place": "Thiruthuraiyur"
+},{
+  "StationCode": "SEV",
+  "StationName": "Sithalavai",
+  "Place": "Sithalavai"
+},{
+  "StationCode": "PEI",
+  "StationName": "Perani",
+  "Place": "Perani"
+},{
+  "StationCode": "LTI",
+  "StationName": "Latteri",
+  "Place": "Latteri"
+},{
+  "StationCode": "TVNL",
+  "StationName": "Tiruvennainallur",
+  "Place": "Tiruvennainallur"
+},{
+  "StationCode": "TVS",
+  "StationName": "Talaivasal",
+  "Place": "Talaivasal"
+},{
+  "StationCode": "PO",
+  "StationName": "Parangipettai",
+  "Place": "Parangipettai"
+},{
+  "StationCode": "TVT",
+  "StationName": "Tiruvottiyur",
+  "Place": "Tiruvottiyur"
+},{
+  "StationCode": "MTUR",
+  "StationName": "Mathur",
+  "Place": "Mathur"
+},{
+  "StationCode": "AYN",
+  "StationName": "Aiyanapuram",
+  "Place": "Aiyanapuram"
+},{
+  "StationCode": "KOTR",
+  "StationName": "Korattur",
+  "Place": "Korattur"
+},{
+  "StationCode": "RPM",
+  "StationName": "Royapuram",
+  "Place": "Royapuram"
+},{
+  "StationCode": "KIB",
+  "StationName": "Kizha Ambur Kizha",
+  "Place": "Ambur"
+},{
+  "StationCode": "TZD",
+  "StationName": "Tozhuppedu",
+  "Place": "Tozhuppedu"
+},{
+  "StationCode": "MUQ",
+  "StationName": "Marudur",
+  "Place": "Marudur"
+},{
+  "StationCode": "MAF",
+  "StationName": "Manavur",
+  "Place": "Manur"
+},{
+  "StationCode": "KJPD",
+  "StationName": "Kurinjipadi",
+  "Place": "Kurinjipadi"
+},{
+  "StationCode": "PTM",
+  "StationName": "Padalam",
+  "Place": "Padalam"
+},{
+  "StationCode": "KPPR",
+  "StationName": "Karuppur",
+  "Place": "Karuppur"
+},{
+  "StationCode": "CLN",
+  "StationName": "Kollidam",
+  "Place": "Kollidam"
+},{
+  "StationCode": "SAMT",
+  "StationName": "Salem Market Salem",
+  "Place": "Market"
+},{
+  "StationCode": "KAVM",
+  "StationName": "Kathivakkam",
+  "Place": "Kathivakkam"
+},{
+  "StationCode": "RAGM",
+  "StationName": "Rajagambiram",
+  "Place": "Rajagambiram"
+},{
+  "StationCode": "UKV",
+  "StationName": "Uttamarkovil",
+  "Place": "Uttamarkovil"
+},{
+  "StationCode": "KAY",
+  "StationName": "Karaimadai",
+  "Place": "Karaimadai"
+},{
+  "StationCode": "ULU",
+  "StationName": "Ulundurpet",
+  "Place": "Ulundurpet"
+},{
+  "StationCode": "AKM",
+  "StationName": "Arambakkam",
+  "Place": "Arambakkam"
+},{
+  "StationCode": "DPI",
+  "StationName": "Doddampatti",
+  "Place": "Doddampatti"
+},{
+  "StationCode": "UPM",
+  "StationName": "Urappakkam",
+  "Place": "Urappakkam"
+},{
+  "StationCode": "TJM",
+  "StationName": "Turinjapuram",
+  "Place": "Turinjapuram"
+},{
+  "StationCode": "MBU",
+  "StationName": "Melpattam Bakkam Melpattam",
+  "Place": "Bakkam"
+},{
+  "StationCode": "ALK",
+  "StationName": "Alakkudi",
+  "Place": "Alakkudi"
+},{
+  "StationCode": "RYC",
+  "StationName": "Rayakkottai",
+  "Place": "Rayakkottai"
+},{
+  "StationCode": "MZU",
+  "StationName": "Marandahalli",
+  "Place": "Marandahalli"
+},{
+  "StationCode": "ALP",
+  "StationName": "Alapakam",
+  "Place": "Alapakam"
+},{
+  "StationCode": "PLMG",
+  "StationName": "Puliyamangalam",
+  "Place": "Puliyamangalam"
+},{
+  "StationCode": "TNI",
+  "StationName": "Tandarai",
+  "Place": "Tandarai"
+},{
+  "StationCode": "ANM",
+  "StationName": "Anaimalai",
+  "Place": "Road"
+},{
+  "StationCode": "VB",
+  "StationName": "Villiyambakkam",
+  "Place": "Villiyambakkam"
+},{
+  "StationCode": "DSM",
+  "StationName": "Darasuram",
+  "Place": "Darasuram"
+},{
+  "StationCode": "UDT",
+  "StationName": "Udumalaipettai",
+  "Place": "Udumalaipettai"
+},{
+  "StationCode": "CNV",
+  "StationName": "Kinattukkadavu",
+  "Place": "Kinattukkadavu"
+},{
+  "StationCode": "MXM",
+  "StationName": "Minatchipuram",
+  "Place": "Minatchipuram"
+},{
+  "StationCode": "PPTR",
+  "StationName": "Pushpattur",
+  "Place": "Pushpattur"
+},{
+  "StationCode": "GMGM",
+  "StationName": "Gomangalam",
+  "Place": "Gomangalam"
+},{
+  "StationCode": "BJM",
+  "StationName": "Bhagavathipuram",
+  "Place": "Bhagavathipuram"
+},{
+  "StationCode": "ATB",
+  "StationName": "Alattambadi",
+  "Place": "Alattambadi"
+},{
+  "StationCode": "ATQ",
+  "StationName": "Arantangi",
+  "Place": "Arantangi"
+},{
+  "StationCode": "AYI",
+  "StationName": "Ayingudi",
+  "Place": "Ayingudi"
+},{
+  "StationCode": "TAM",
+  "StationName": "Tilaivilagam",
+  "Place": "Tilaivilagam"
+},{
+  "StationCode": "TNK",
+  "StationName": "Tirunellikaval",
+  "Place": "Tirunellikaval"
+},{
+  "StationCode": "PKT",
+  "StationName": "Pattukottai",
+  "Place": "Pattukottai"
+},{
+  "StationCode": "PVI",
+  "StationName": "Peravurani",
+  "Place": "Peravurani"
+},{
+  "StationCode": "PYK",
+  "StationName": "Periyakottai",
+  "Place": "Periyakottai"
+},{
+  "StationCode": "TCT",
+  "StationName": "Tiruchitrambalam",
+  "Place": "Tiruchitrambalam"
+},{
+  "StationCode": "VMM",
+  "StationName": "Valaramanikkam",
+  "Place": "Valaramanikkam"
+},{
+  "StationCode": "AMM",
+  "StationName": "Atirampattinam",
+  "Place": "Atirampattinam"
+},{
+  "StationCode": "MAX",
+  "StationName": "Mangudi",
+  "Place": "Mangudi"
+},{
+  "StationCode": "VDK",
+  "StationName": "Vadakannikapuram",
+  "Place": "Vadakannikapuram"
+},{
+  "StationCode": "MDKM",
+  "StationName": "Madattukulam",
+  "Place": "Madattukulam"
+}]

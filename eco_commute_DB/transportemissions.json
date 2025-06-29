@@ -1,0 +1,37 @@
+[{
+  "transport_mode": "Domestic Flight",
+  "co2_emission_per_km": 255
+},{
+  "transport_mode": "Medium Petrol-Powered Car",
+  "co2_emission_per_km": 192
+},{
+  "transport_mode": "Medium Diesel-Powered Car",
+  "co2_emission_per_km": 171
+},{
+  "transport_mode": "Short-Haul Flight - Economy Class",
+  "co2_emission_per_km": 156
+},{
+  "transport_mode": "Long-Haul Flight - Economy Class",
+  "co2_emission_per_km": 150
+},{
+  "transport_mode": "Bus",
+  "co2_emission_per_km": 105
+},{
+  "transport_mode": "Medium Motorcycle",
+  "co2_emission_per_km": 103
+},{
+  "transport_mode": "2-Passenger Petrol Car",
+  "co2_emission_per_km": 96
+},{
+  "transport_mode": "Electric Vehicle (Medium - UK)",
+  "co2_emission_per_km": 53
+},{
+  "transport_mode": "National Rail",
+  "co2_emission_per_km": 41
+},{
+  "transport_mode": "Ferry",
+  "co2_emission_per_km": 19
+},{
+  "transport_mode": "Eurostar (International Rail)",
+  "co2_emission_per_km": 6
+}]

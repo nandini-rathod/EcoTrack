@@ -1,0 +1,60 @@
+[{
+  "username": "john_doe",
+  "email": "john.doe@example.com",
+  "password": "U2FsdGVkX1/GyiJULabzQOzB+Ln5CMcFIGuPmlYXyY8=",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1688928883624"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1688928883624"
+    }
+  },
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIbO5DSEC9tvJXa1hQNYF-Vk9ktiqEhGeuJQ&usqp=CAU",
+  "address": "hello area at trichy",
+  "country": "India"
+},{
+  "username": "john",
+  "email": "john@example.com",
+  "password": "U2FsdGVkX1+4rSfMNL8hbponLy+npvDr7/TLgMxqEmc=",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1688984986602"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1688984986602"
+    }
+  }
+},{
+  "username": "VIVIAN JOSEPH ",
+  "email": "viviansassyboy@gmail.com",
+  "password": "U2FsdGVkX1/fGarASxTkXI5+aASSm7GEENYtWnurl/E=",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1688985484835"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1688985484835"
+    }
+  }
+},{
+  "username": "cse",
+  "email": "cse231116@saranathan.ac.in",
+  "password": "U2FsdGVkX18qc9Gj1qjZt83eODGtKXxp10PUhNqb3Ag=",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1688987835687"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1688987835687"
+    }
+  }
+}]

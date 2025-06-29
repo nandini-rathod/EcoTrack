@@ -1,0 +1,6 @@
+.CustomerReview {
+    /* Set a max width and max height to reduce the size of the chart */
+    width: 520px; /* Adjust as needed */
+    height: 500px; /* Adjust as needed */
+  margin-top: 160px;
+  }

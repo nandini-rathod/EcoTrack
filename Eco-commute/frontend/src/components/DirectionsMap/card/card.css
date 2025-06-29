@@ -1,0 +1,138 @@
+/* Global Styles */
+body {
+    padding: 50px;
+    font-family: "Ubuntu", sans-serif;
+  }
+  
+  body * {
+    box-sizing: border-box;
+  }
+  
+  /* Card Container Styles */
+  .card-container {
+    display: flex;
+    flex-wrap: wrap; /* Allow cards to wrap to the next row */
+    justify-content: space-between; /* Distribute space evenly between cards */
+    margin: 30px -15px; /* Adjust margin to avoid overflow */
+    margin-bottom: 100px;
+    margin-top: 80px;
+  }
+  
+  /* Card Styles */
+  .card {
+    font-weight: bold;
+    width: calc(33.33% - 30px); /* Adjust card width for three cards per row */
+    margin: 0 15px 30px; /* Add margin between cards */
+    position: relative;
+    margin-right: 5px;
+  }
+  
+  .card a {
+    padding: 30px;
+    width: 100%;
+    height: 400px;
+    border: 2px solid black;
+    background: white;
+    text-decoration: none;
+    color: black;
+    display: block;
+    transition: 0.25s ease;
+    border-radius:25px;
+  }
+  
+  .card a:hover {
+    transform: translate(-30px, -30px);
+    border-color:#1CAC78; /* Highlight color */
+  }
+  
+  .card a:hover .card--display {
+    display: none;
+  }
+  
+  .card a:hover .card--hover {
+    display: block;
+  }
+  .card a:hover .link{
+    box-shadow: 2px 2px 0 1px rgba(0, 0, 0);
+  }
+
+  
+  .card--display i {
+    font-size: 60px;
+    margin-top: 20px;
+  }
+  
+  .card--display h2 {
+    margin: 20px 0 0;
+  }
+  
+  .card--hover {
+    display: none;
+  }
+  
+  .card--hover h2 {
+    margin: 20px 0;
+  }
+  
+  .card--hover p {
+    font-weight: normal;
+    line-height: 1.5;
+  }
+  
+  .card--hover .link {
+    padding: 10px 20px;
+    border: 1px solid black;
+    background-color: #00ffa0;
+    border-radius: 10px;
+    letter-spacing: 1px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.4s;
+    
+  }
+  .link:focus{
+    background: transparent;
+  }
+  .card .card-button-container{
+    display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 30px;
+  margin-bottom: 20px;
+  }
+  
+  .card--border {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    border: 2px dashed black;
+    z-index: -1;
+    border-radius: 25px;
+  }
+  
+  /* Dark Theme Styles */
+  .card.card--dark a {
+    color: white;
+    background-color: black;
+    border-color: black;
+  }
+  
+  .card.card--dark a .card--hover .link {
+    color: #fde74c; /* Dark highlight color */
+  }
+
+  .card-content{
+    height: 275px;
+  }
+
+  .emission{
+    font-size: 17px;
+  font-weight: 900;
+  border-bottom: 2px solid black;
+  cursor: pointer;
+  transition: all 0.4s;
+  color: #1CAC78;
+  }
+  

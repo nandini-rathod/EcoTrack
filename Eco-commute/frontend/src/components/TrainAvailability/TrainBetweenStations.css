@@ -1,0 +1,7 @@
+.slider-container {
+  display: flex;
+  justify-content: center; /* Horizontally center the Slider */
+  align-items: center; /* Vertically center the Slider */
+  margin: 0 auto; /* Optional: Center the container horizontally on the page */
+  max-width: 800px; /* Adjust the maximum width as needed */
+}

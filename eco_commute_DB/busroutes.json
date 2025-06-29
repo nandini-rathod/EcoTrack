@@ -1,0 +1,46 @@
+[{
+  "origin": "Tiruchirappalli",
+  "destination": "Chennai",
+  "operator": "ABC Travels",
+  "departure_time": "09:00 AM",
+  "arrival_time": "03:00 PM",
+  "fare": "600 INR",
+  "bus_type": "Sleeper",
+  "carbon_emission": 120
+},{
+  "origin": "Tiruchirappalli",
+  "destination": "Chennai",
+  "operator": "XYZ Bus Services",
+  "departure_time": "10:30 AM",
+  "arrival_time": "04:30 PM",
+  "fare": "550 INR",
+  "bus_type": "Semi-Sleeper",
+  "carbon_emission": 110
+},{
+  "origin": "Tiruchirappalli",
+  "destination": "Chennai",
+  "operator": "Quick Travels",
+  "departure_time": "12:00 PM",
+  "arrival_time": "06:00 PM",
+  "fare": "500 INR",
+  "bus_type": "Sleeper",
+  "carbon_emission": 130
+},{
+  "origin": "Tiruchirappalli",
+  "destination": "Chennai",
+  "operator": "Swift Bus Lines",
+  "departure_time": "02:30 PM",
+  "arrival_time": "08:30 PM",
+  "fare": "480 INR",
+  "bus_type": "Semi-Sleeper",
+  "carbon_emission": 115
+},{
+  "origin": "Tiruchirappalli",
+  "destination": "Chennai",
+  "operator": "Reliable Travels",
+  "departure_time": "05:00 PM",
+  "arrival_time": "11:00 PM",
+  "fare": "520 INR",
+  "bus_type": "Sleeper",
+  "carbon_emission": 125
+}]

@@ -1,0 +1,33 @@
+[{
+  "monthlyCarbonEmission": [
+    {
+      "month": "January",
+      "carbonEmission": 0.9,
+      "_id": {
+        "$oid": "64ab029a33ab9818b265fb40"
+      }
+    },
+    {
+      "month": "February",
+      "carbonEmission": 0.77,
+      "_id": {
+        "$oid": "64ab029a33ab9818b265fb41"
+      }
+    },
+    {
+      "month": "March",
+      "carbonEmission": 0.5,
+      "_id": {
+        "$oid": "64ab029a33ab9818b265fb42"
+      }
+    }
+  ],
+  "electricityConsumption": 250,
+  "carbonCredits": 100,
+  "balance": 500,
+  "sustainableSelectPurchaseAmount": 50,
+  "points": 110,
+  "user": {
+    "$oid": "64ab027333ab9818b265fb3d"
+  }
+}]

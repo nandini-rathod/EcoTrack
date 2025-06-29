@@ -1,0 +1,262 @@
+.container {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.1);
+    animation: fade-in 1s ease-in-out;
+  }
+  
+  .title {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  table th,
+  table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .table-header {
+    background-color: #f0f0f0;
+    font-weight: bold;
+  }
+  
+  ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  .calculation-result {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #eaf7ea;
+    border-radius: 5px;
+  }
+  
+  /* Add more styles as needed */
+  
+.educative-content {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #f7f7f7;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .educative-content h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .educative-content ul {
+    padding-left: 20px;
+  }
+  
+  .educative-content li {
+    margin-bottom: 8px;
+    color: #555;
+  }
+  .edu ul{
+    color: red;
+  }
+
+  .edu {
+  margin-top: 30px;
+  padding: 20px;
+  background-color: #f7f7f7;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+.edu h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.edu ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 10px;
+}
+
+.edu li {
+  margin-bottom: 10px;
+  color: #555;
+  border-left: 3px solid #27ae60;
+  padding-left: 10px;
+}
+
+/* Add hover effect */
+.edu li:hover {
+  background-color: #f0f0f0;
+}
+.edu {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #f7f7f7;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .edu h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .edu ul {
+    list-style: none;
+    padding: 0;
+    margin-top: 10px;
+  }
+  
+  .edu li {
+    margin-bottom: 10px;
+    color: #555;
+    border-left: 3px solid #27ae60;
+    padding-left: 10px;
+  }
+  
+  /* Add hover effect */
+  .edu li:hover {
+    background-color: #f0f0f0;
+    transition: background-color 0.3s;
+  }
+  .result {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #f7f7f7;
+    border-radius: 10px;
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .result h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .result p {
+    margin-bottom: 12px;
+    color: #555;
+    line-height: 1.5;
+  }
+  
+  .result p span.donation {
+    color: #27ae60;
+    font-weight: bold;
+  }
+  
+
+  
+.emission-stats {
+  margin-top: 30px;
+  padding: 20px;
+  background-color: #f7f7f7;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+.emission-stats h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 15px;
+}
+
+thead th {
+  background-color: #f2f2f2;
+  text-align: left;
+  padding: 10px;
+  font-weight: bold;
+}
+
+tbody td {
+  padding: 10px;
+  border-top: 1px solid #ccc;
+}
+
+.section-title {
+  font-size: 24px;
+  margin-top: 80px;
+  color: #333;
+  margin-left: 700px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Styling for the table container */
+.emission-stats table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  background-color: #f2f2f2; /* Background color for the entire table */
+  font-family: Arial, sans-serif; /* Change the font family */
+}
+
+/* Styling for table headers */
+.emission-stats th {
+  background-color:#27ae60; /* Background color for header cells */
+  color: white; /* Font color for header cells */
+  text-align: center;
+  padding: 12px;
+  font-weight: bold;
+  text-transform: uppercase; /* Change text to uppercase */
+}
+
+/* Styling for table cells (data) */
+.emission-stats td {
+  text-align: center;
+  padding: 8px;
+  font-weight: normal; /* Reset font weight to normal */
+}
+
+/* Styling for table rows */
+.emission-stats tr:nth-child(even) {
+  background-color: #ffffff; /* Alternate row background color */
+}
+
+/* Styling for the percentage values */
+.emission-stats td.percentage {
+  color: 27ae60; /* Blue color for percentage values */
+  font-weight: bold;
+}
+
+/* Styling for gCO2/kWh values */
+.emission-stats td.gco2 {
+  color: #dc3545; /* Red color for gCO2/kWh values */
+  font-weight: bold;
+}
+

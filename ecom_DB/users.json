@@ -1,0 +1,93 @@
+[{
+  "username": "vivian_joseph",
+  "email": "viviansassyboy@gmail.com",
+  "password": "U2FsdGVkX19ZGpnlKqPJ49kjPFbPkB+05InxBhNFF+4=",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672968634703"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1688607034703"
+    }
+  }
+},{
+  "username": "Admin",
+  "email": "Admin@gmail.com",
+  "password": "U2FsdGVkX1/t64ksmQ6BJo81tusTUy7/iEqxO5St2No=",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680753957216"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1688616357216"
+    }
+  }
+},{
+  "username": "AdminOne",
+  "email": "Adminone@gmail.com",
+  "password": "U2FsdGVkX1/iuRP9QzDbTHx008kwbiNLdZ1pejO8a7o=",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1691295613288"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1688617213288"
+    }
+  }
+},{
+  "username": "VJ007",
+  "email": "VJ@gmail.com",
+  "password": "U2FsdGVkX1+KZs/FFQo0il3QkT7kBrT6mjMn0H8VFZ8=",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1688731305412"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1688731305412"
+    }
+  }
+},{
+  "username": "AdminTwo",
+  "email": "Admintwo@gmail.com",
+  "password": "U2FsdGVkX1/vJU6rlfZnlMKEos3cOXh5JRHyfcHdyiY=",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694092482379"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1688735682379"
+    }
+  }
+},{
+  "username": "vivian",
+  "email": "vivian@gmail.com",
+  "password": "U2FsdGVkX19dx5S36Xlqv2tzI2OKpH4yPUjZBTTSkAo=",
+  "isAdmin": false,
+  "carbonCreditsPoints": 0,
+  "points": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1692538211215"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1692538211215"
+    }
+  }
+}]

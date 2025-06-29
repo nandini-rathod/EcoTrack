@@ -1,0 +1,160 @@
+[{
+  "title": "GeoOrganics - Tooth brushes",
+  "desc": "The \"GeoOrganics - Tooth Brushes\" – a harmonious blend of sustainability and oral care. These toothbrushes redefine your daily dental routine with a touch of eco-consciousness. Crafted from biodegradable and renewable bamboo, they epitomize our commitment to minimizing environmental impact. Glide through each brushing session with bristles that are not only BPA-free but also vegan-friendly, ensuring a refreshing and guilt-free dental experience. Immerse yourself in the natural and refreshing sensation of brushing, knowing that each stroke contributes to a greener planet. Our toothbrushes don't just promise oral health; they embrace the essence of mindful living. Let your smile radiate positivity, both for yourself and the Earth..",
+  "img": "https://images.unsplash.com/photo-1605615923013-f26c14fe7155?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+  "categories": [
+    "Category1",
+    "Category2"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "color": [
+    "#336133",
+    "#778760",
+    "#876c60"
+  ],
+  "price": 39.99,
+  "weight": 0.5,
+  "inStock": true,
+  "materials": [
+    "Cotton",
+    "Polyester"
+  ],
+  "carbonEmissionPercentage": 5
+},{
+  "title": "GreenLife - Bamboo Utensil Set",
+  "desc": "Elevate your culinary experience with the \"GreenLife - Bamboo Utensil Set,\" a collection of sustainable essentials for your kitchen. Crafted from biodegradable bamboo, each utensil embodies eco-consciousness while serving as an extension of your culinary creativity. Whether stirring, flipping, or serving, let your cooking journey be a celebration of mindful living.",
+  "img": "https://images.unsplash.com/photo-1525904097878-94fb15835963?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+  "categories": [
+    "Kitchen",
+    "Cooking"
+  ],
+  "size": [
+    "Set of 5"
+  ],
+  "color": [
+    "#7b6e56",
+    "#a89d85",
+    "#d3c7ae"
+  ],
+  "price": 28.99,
+  "weight": 0.6,
+  "inStock": true,
+  "materials": [
+    "Bamboo"
+  ],
+  "carbonEmissionPercentage": 3
+},{
+  "title": "EcoGlow - Beeswax Candle",
+  "desc": "Illuminate your space with the warm glow of the \"EcoGlow - Beeswax Candle,\" a true embodiment of nature's tranquility. Handcrafted from pure beeswax, this candle enhances your ambiance while honoring the bees that contribute to our ecosystem. Embrace the soothing embrace of candlelight and its eco-friendly essence.",
+  "img": "https://images.unsplash.com/photo-1612110509420-a4026f3bc1dc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+  "categories": [
+    "Home Decor",
+    "Wellness"
+  ],
+  "size": [
+    "Small",
+    "Medium"
+  ],
+  "color": [
+    "#a1785d",
+    "#c9a28a",
+    "#e6cbb6"
+  ],
+  "price": 16.99,
+  "weight": 0.4,
+  "inStock": true,
+  "materials": [
+    "Beeswax"
+  ],
+  "carbonEmissionPercentage": 1
+},{
+  "title": "PureEarth - Organic Soap Bar",
+  "desc": "Experience nature's purity with the \"PureEarth - Organic Soap Bar,\" a nourishing blend of sustainability and skincare. Crafted from organic ingredients, each bar is a testament to embracing wholesome cleansing rituals. Let your skin indulge in the gentle caress of nature while reducing your environmental footprint.",
+  "img": "https://images.unsplash.com/photo-1553808373-92b0bcc3af65?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+  "categories": [
+    "Beauty",
+    "Skincare"
+  ],
+  "size": [
+    "Standard"
+  ],
+  "color": [
+    "#8f6e55",
+    "#b7987b",
+    "#d9c4af"
+  ],
+  "price": 9.99,
+  "weight": 0.15,
+  "inStock": true,
+  "materials": [
+    "Organic Ingredients"
+  ],
+  "carbonEmissionPercentage": 2
+},{
+  "title": "essentials",
+  "desc": "its a good essential",
+  "img": "https://firebasestorage.googleapis.com/v0/b/sustainable-select.appspot.com/o/1692950161870anna-oliinyk-nCPpMv69m1s-unsplash.jpg?alt=media&token=dc53f7bb-a36e-40d7-bce1-9728d95a95c7",
+  "categories": [
+    "towel",
+    "green",
+    "utensils"
+  ],
+  "size": [],
+  "color": [],
+  "price": 200,
+  "weight": 500,
+  "inStock": true,
+  "materials": [
+    "paper ",
+    " cloth",
+    " cotton"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1692950171079"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1692950171079"
+    }
+  }
+},{
+  "title": "Sample_Product",
+  "desc": "This is a sample product description",
+  "img": "sample-image.jpg",
+  "categories": [
+    "Category 1",
+    "Category 2"
+  ],
+  "size": [
+    "Small",
+    "Medium"
+  ],
+  "color": [
+    "Red",
+    "Blue"
+  ],
+  "price": 49.99,
+  "weight": 0.5,
+  "inStock": true,
+  "materials": [
+    "Cotton",
+    "Polyester",
+    "Polyester"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1698993154762"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1698993154762"
+    }
+  }
+}]

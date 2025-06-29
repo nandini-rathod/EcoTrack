@@ -1,0 +1,32 @@
+input -> features of CarbonSense : Sustainable select , eco analytics , eco-commute , eco-efficiency , powerOptima
+Sustainable select => aka carbon conscious shopping cart , where each product has a description of the amount of carbon emission it does on the environment and points will be awarded to the buyer/customer/user if he buy's products that has a carbon emission value lesser than a certain threshold .
+eco-commute => aka transportation  , here , the user's start point and end point of his/her journey is asked and the public transports that are available at that time to for his/her requested journey is shown , the public transport in eco-commute include bus , train ,  flight  , ship , along with educative information of the carbon emissions when the user covers the same distance in a  car/bike..etc are shown . If the distance to be traveled is less than 10kms then informative message will be displayed to use bicycles .   
+users will be rewarded points for traveling through public transports and reducing the carbon emissions .
+eco-efficiency=> aka waste management , here , the users are requested to enter their pin-code (that is location) , along with the number of persons residing in their household . The site calculates the total amount of carbon emission on their region theyre responsible for(an approx) . 
+user's will be educated within the website for waste related carbon emissions and how to reduce them.
+green comptetions are conducted where the families/users participate to reduce/clean their region's waste and winners will be awarded points 
+so , eco-efficiency  helps users reduce their waste carbon emission as well as educate them on the carbon emission related to excess-waste
+powerOptima => aka electricity management , here the users are requested to enter the aadhar number (social security number) associated to their household , the electricity billing and amount current consumed will be calculated and the users will be educated on how to reduce their electricity ( and indirectly reducing the carbon emission ) .
+If the amount of current consumed is lesser than the threshold amount then the user will be rewarded points.
+Thus , powerOptima not only reduces the electricity consumption of the users but also educates them on carbon emissions related to electricty and how to reduce them.
+
+other than these , the users will be gaining points for daily login and can take on quiz to gain points
+
+
+output -> 
+
+The features of CarbonSense are as follows:
+
+1. Sustainable Select: This feature allows users to make carbon-conscious shopping choices. Each product has a description of its carbon emissions, and users are awarded points for purchasing products with carbon emissions below a certain threshold.
+
+2. Eco-Commute: This feature focuses on transportation. Users input their start and end points, and the platform shows available public transport options. It also provides educational information on carbon emissions compared to traveling by car or bike. Users earn points for using public transport and reducing carbon emissions.
+
+3. Eco-Efficiency: This feature focuses on waste management. Users enter their location and the number of people in their household. The platform calculates their approximate carbon emissions related to waste. Users receive education on waste-related carbon emissions and participate in green competitions to reduce waste in their region and earn points.
+
+4. PowerOptima: This feature focuses on electricity management. Users provide their household's social security number (Aadhar number) and electricity consumption details. The platform educates users on reducing electricity consumption and carbon emissions. Users earn points if their electricity consumption is below a certain threshold.
+
+5. CarbonLink+: This feature allows users to convert their earned points into real assets called Carbon Credits. These credits can be used within the platform to gain discounts on products/services or to make purchases.
+
+Users can gain points through daily logins and by taking quizzes regularly.
+
+Overall, CarbonSense is a gamified and user-centric platform that educates users about carbon emissions and encourages them to take actions to reduce their carbon footprint.

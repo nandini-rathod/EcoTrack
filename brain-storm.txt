@@ -1,0 +1,27 @@
+brain-storm
+1) carbon footprint daily tracker
+2) carbon consius shopping guide
+3) Carbon Footprint Comparison and Leaderboards
+4) Virtual Eco-Community Events and Challenges
+5) Educational content
+6) Gamification elements
+7) Interactive interface
+8) Personalization
+9) Social interaction
+
+
+IDEA
+ - Main application
+	- has different features 
+		- carbon footprint daily tracker
+		- carbon consius shopping guide
+		- Educational content
+		- Transportation
+		- ALAN AI
+	- supporting features
+		- Carbon Footprint Comparison and Leaderboards
+		- Virtual Eco-Community Events and Challenges
+		- Gamification elements
+		- Interactive interface
+		- Personalization
+		- Social interaction

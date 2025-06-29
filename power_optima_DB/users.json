@@ -1,0 +1,33 @@
+[{
+  "aadharNumber": "123456789012",
+  "username": "john_doe",
+  "password": "U2FsdGVkX19nx2o6l3Wr7oH7Hjn5dTTe77v2CsPVb8M=",
+  "email": "john.doe@example.com",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1689007676657"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1689007676657"
+    }
+  }
+},{
+  "aadharNumber": "987654321098",
+  "billingID": "EB002",
+  "billingAmount": 150,
+  "powerConsumed": 75,
+  "paymentStatus": "Unpaid",
+  "dueDate": "2023-07-20",
+  "monthConsumption": [
+    {
+      "month": "January",
+      "consumption": 40
+    },
+    {
+      "month": "February",
+      "consumption": 35
+    }
+  ]
+}]

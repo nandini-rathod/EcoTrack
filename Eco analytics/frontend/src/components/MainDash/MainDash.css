@@ -1,0 +1,9 @@
+
+.MainDash {
+    display: flex;
+    flex-wrap: wrap; /* Allow items to wrap to the next line */
+    justify-content: space-between; /* Distribute items evenly with space in between */
+    align-items: flex-start; /* Align items to the top of the container */
+    margin-top: 2rem; /* Adjust the top margin as needed */
+  }
+  

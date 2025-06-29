@@ -1,0 +1,33 @@
+body, html {
+  height: 100%;
+}
+
+ 
+.bgimage-container {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  height: 90vh; /* Adjust the height as needed */
+  background-color: #ffffff; /* Background color for the container, if desired */
+  background-image: url("bgimage.jpg"); /* Set the background image */
+  background-repeat: no-repeat; /* Prevent repetition */
+  background-position: center; 
+
+background-size: 90vw 90%; 
+ 
+
+  .bg-text {
+    color: rgb(115, 209, 176);
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 80%;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Center the background image */
+}

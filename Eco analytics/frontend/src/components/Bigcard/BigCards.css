@@ -1,0 +1,9 @@
+.Cards-big {
+  display: flex;
+  gap: 10px;
+
+}
+.parentContainer-big{
+  width: 100%;
+ margin-top: 20px;
+}

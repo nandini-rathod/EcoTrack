@@ -1,0 +1,84 @@
+/* Styling for bus card */
+.bus-columns-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%; /* Center content vertically within the Slider */
+}
+
+.bus-content{
+  height:225px;
+}
+.bus-columns {
+  width: 18em;
+  position: relative;
+  border-radius: 20px;
+  padding: 35px;
+  border: 2px solid black;
+  transition: all 0.4s;
+  margin: 10px;
+}
+
+.bus-columns:hover {
+  box-shadow: 4px 4px 0 1px rgba(0, 0, 0);
+}
+
+.dots {
+  position: absolute;
+  right: 15px;
+  top: 15px;
+}
+
+.bus-columns .bus-button-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 30px;
+  margin-bottom: 20px;
+}
+
+.bus-offer {
+  font-size: 17px;
+  font-weight: 900;
+  border-bottom: 2px solid black;
+  cursor: pointer;
+  transition: all 0.4s;
+}
+
+.bus-btn {
+  padding: 10px 18px;
+  border: 1px solid black;
+  background-color: #00ffa0;
+  border-radius: 10px;
+  letter-spacing: 1px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.4s;
+}
+
+.bus-columns:hover .bus-btn {
+  box-shadow: 2px 2px 0 1px rgba(0, 0, 0);
+}
+
+.bus-columns:hover .bus-offer {
+  color: green;
+  border-color: green;
+}
+
+.bus-btn:focus {
+  background: transparent;
+}
+
+.bus-secondary-heading {
+  font-size: 20px;
+  font-weight: 800;
+  margin-bottom: 20px;
+}
+
+.bus-card-description {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 2;
+}
+
+/* Add any specific styles for BusCard component here */

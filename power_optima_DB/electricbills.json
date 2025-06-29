@@ -1,0 +1,49 @@
+[{
+  "aadharNumber": "987654321098",
+  "billingID": "EB002",
+  "billingAmount": 150,
+  "powerConsumed": 75,
+  "paymentStatus": "Unpaid",
+  "dueDate": "2023-07-20",
+  "monthConsumption": [
+    {
+      "month": "January",
+      "consumption": 40
+    },
+    {
+      "month": "February",
+      "consumption": 35
+    }
+  ],
+  "Country": "India"
+},{
+  "aadharNumber": "123456789012",
+  "billingID": "EB001",
+  "billingAmount": 100,
+  "powerConsumed": 50,
+  "paymentStatus": "Paid",
+  "dueDate": "2023-07-15",
+  "monthConsumption": [
+    {
+      "month": "January",
+      "consumption": 30
+    },
+    {
+      "month": "February",
+      "consumption": 20
+    },
+    {
+      "month": "March",
+      "consumption": 25
+    },
+    {
+      "month": "April",
+      "consumption": 35
+    },
+    {
+      "month": "May",
+      "consumption": 40
+    }
+  ],
+  "Country": "India"
+}]

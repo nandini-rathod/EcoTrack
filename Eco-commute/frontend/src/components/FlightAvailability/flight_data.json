@@ -1,0 +1,2580 @@
+{
+"status": 200,
+"searchData": {
+  "from": "TRZ",
+  "to": "MAA",
+  "date": "2023-09-29",
+  "type": "Economy",
+  "adult": 1,
+  "child": 0,
+  "infant": 0,
+  "currency": "INR"
+},
+"results": [
+  {
+    "id": "0bb18b8ac3643fb3bb5b0f54ee2b228e23630a2274c3f107e147791772a80492",
+    "careerCode": "UL",
+    "flight_code": "UL-134",
+    "flight_name": "SriLankan",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T15:30:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-09-30T08:50:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "UL-134",
+      "UL-121"
+    ],
+    "duration": {
+      "text": "17h 20m",
+      "value": 1040
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "CMB",
+        "stopDuration": 895
+      }
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 25567.38,
+      "tax": 14480.640000000001,
+      "base": 11086.74
+    }
+  },
+  {
+    "id": "849318a706b8c14e02e779a1d98f198c07758b41e6e0fa9915352aa9fe640211",
+    "careerCode": "UL",
+    "flight_code": "UL-134",
+    "flight_name": "SriLankan",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T15:30:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-09-30T15:05:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "UL-134",
+      "UL-127"
+    ],
+    "duration": {
+      "text": "23h 35m",
+      "value": 1415
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "CMB",
+        "stopDuration": 1270
+      }
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 25567.38,
+      "tax": 14480.640000000001,
+      "base": 11086.74
+    }
+  },
+  {
+    "id": "0a5a3a5d1d5de0d46d75e0fbb100d4694a0d090779af1c229a667fd7c03887e2",
+    "careerCode": "OD",
+    "flight_code": "OD-224",
+    "flight_name": "Malindo Airways",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T22:25:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-09-30T22:25:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "OD-224",
+      "ID-6018"
+    ],
+    "duration": {
+      "text": "24h 00m",
+      "value": 1440
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "KUL",
+        "stopDuration": 960
+      }
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 41179.32,
+      "tax": 8371.62,
+      "base": 32807.700000000004
+    }
+  },
+  {
+    "id": "b33322a78db9504aa78492c54a88867c3319821426f7de6af7a32223a7168f74",
+    "careerCode": "OD",
+    "flight_code": "OD-224",
+    "flight_name": "Malindo Airways",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T22:25:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-09-30T22:25:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "OD-224",
+      "OD-9112"
+    ],
+    "duration": {
+      "text": "24h 00m",
+      "value": 1440
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "KUL",
+        "stopDuration": 960
+      }
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 44120.700000000004,
+      "tax": 8371.62,
+      "base": 35749.08
+    }
+  },
+  {
+    "id": "5c32b8ee3a18df0bd3ab5aecdb696fbb38e265b787c38261dcf7f1fffba5522a",
+    "careerCode": "UL",
+    "flight_code": "UL-134",
+    "flight_name": "SriLankan",
+    "stops": "2 Stops",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T15:30:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-09-30T00:50:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "UL-134",
+      "UL-143",
+      "AI-576"
+    ],
+    "duration": {
+      "text": "09h 20m",
+      "value": 560
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "CMB",
+        "stopDuration": 50
+      },
+      "1": {
+        "airport": "BOM",
+        "stopDuration": 190
+      }
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 54981.18,
+      "tax": 15838.2,
+      "base": 39142.98
+    }
+  },
+  {
+    "id": "a9993163ce145c4a3d9bd2c95714f7461c8643a56ef883198a410146445c5670",
+    "careerCode": "UL",
+    "flight_code": "UL-134",
+    "flight_name": "SriLankan",
+    "stops": "2 Stops",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T15:30:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-09-30T07:20:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "UL-134",
+      "UL-141",
+      "AI-570"
+    ],
+    "duration": {
+      "text": "15h 50m",
+      "value": 950
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "CMB",
+        "stopDuration": 430
+      },
+      "1": {
+        "airport": "BOM",
+        "stopDuration": 185
+      }
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 54981.18,
+      "tax": 15838.2,
+      "base": 39142.98
+    }
+  },
+  {
+    "id": "432b9cf52c2ddfd19dd2ad2f685be47b626a453b1436ad7228f051378a10b009",
+    "careerCode": "UL",
+    "flight_code": "UL-134",
+    "flight_name": "SriLankan",
+    "stops": "2 Stops",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T15:30:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-09-30T07:20:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "UL-134",
+      "UL-143",
+      "AI-570"
+    ],
+    "duration": {
+      "text": "15h 50m",
+      "value": 950
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "CMB",
+        "stopDuration": 50
+      },
+      "1": {
+        "airport": "BOM",
+        "stopDuration": 565
+      }
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 54981.18,
+      "tax": 15838.2,
+      "base": 39142.98
+    }
+  },
+  {
+    "id": "dc43a16431c200627df71df68c64bcb7cacf44fbd38aa7657feb2a972e06bc3e",
+    "careerCode": "UL",
+    "flight_code": "UL-134",
+    "flight_name": "SriLankan",
+    "stops": "2 Stops",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T15:30:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-09-30T11:00:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "UL-134",
+      "UL-141",
+      "AI-671"
+    ],
+    "duration": {
+      "text": "19h 30m",
+      "value": 1170
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "CMB",
+        "stopDuration": 430
+      },
+      "1": {
+        "airport": "BOM",
+        "stopDuration": 410
+      }
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 54981.18,
+      "tax": 15838.2,
+      "base": 39142.98
+    }
+  },
+  {
+    "id": "26f3e3907983a612ba87b0dcc0f1f37e86cad9ecba77af39c686b6b5fbd13aaa",
+    "careerCode": "UL",
+    "flight_code": "UL-134",
+    "flight_name": "SriLankan",
+    "stops": "2 Stops",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T15:30:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-09-30T11:00:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "UL-134",
+      "UL-143",
+      "AI-671"
+    ],
+    "duration": {
+      "text": "19h 30m",
+      "value": 1170
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "CMB",
+        "stopDuration": 50
+      },
+      "1": {
+        "airport": "BOM",
+        "stopDuration": 790
+      }
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 54981.18,
+      "tax": 15838.2,
+      "base": 39142.98
+    }
+  },
+  {
+    "id": "c46c12874c8c4f095c367dccb11b7ddb5f7fdb61ce1cd85a5393332f5bb81621",
+    "careerCode": "UL",
+    "flight_code": "UL-134",
+    "flight_name": "SriLankan",
+    "stops": "2 Stops",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T15:30:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-09-30T17:15:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "UL-134",
+      "UL-141",
+      "AI-572"
+    ],
+    "duration": {
+      "text": "25h 45m",
+      "value": 1545
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "CMB",
+        "stopDuration": 430
+      },
+      "1": {
+        "airport": "BOM",
+        "stopDuration": 785
+      }
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 54981.18,
+      "tax": 15838.2,
+      "base": 39142.98
+    }
+  },
+  {
+    "id": "e0df90797d6bbbc4dd28584afb2f29950bf06ce85e29e1eaaeddfb94ac9c2a35",
+    "careerCode": "UL",
+    "flight_code": "UL-134",
+    "flight_name": "SriLankan",
+    "stops": "2 Stops",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T15:30:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-09-30T17:15:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "UL-134",
+      "UL-143",
+      "AI-572"
+    ],
+    "duration": {
+      "text": "25h 45m",
+      "value": 1545
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "CMB",
+        "stopDuration": 50
+      },
+      "1": {
+        "airport": "BOM",
+        "stopDuration": 1165
+      }
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 54981.18,
+      "tax": 15838.2,
+      "base": 39142.98
+    }
+  },
+  {
+    "id": "f6835d5eb25d2597878ab8d38a9c9dcc837910e7a4edf103771df690836de971",
+    "careerCode": "UL",
+    "flight_code": "UL-134",
+    "flight_name": "SriLankan",
+    "stops": "2 Stops",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T15:30:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-09-30T20:20:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "UL-134",
+      "UL-141",
+      "AI-573"
+    ],
+    "duration": {
+      "text": "28h 50m",
+      "value": 1730
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "CMB",
+        "stopDuration": 430
+      },
+      "1": {
+        "airport": "BOM",
+        "stopDuration": 960
+      }
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 54981.18,
+      "tax": 15838.2,
+      "base": 39142.98
+    }
+  },
+  {
+    "id": "9c251febd493f45c5b77061c6273c09336f78555373ec69cef7cb341c3fe1943",
+    "careerCode": "UL",
+    "flight_code": "UL-134",
+    "flight_name": "SriLankan",
+    "stops": "2 Stops",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T15:30:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-09-30T20:20:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "UL-134",
+      "UL-143",
+      "AI-573"
+    ],
+    "duration": {
+      "text": "28h 50m",
+      "value": 1730
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "CMB",
+        "stopDuration": 50
+      },
+      "1": {
+        "airport": "BOM",
+        "stopDuration": 1340
+      }
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 54981.18,
+      "tax": 15838.2,
+      "base": 39142.98
+    }
+  },
+  {
+    "id": "52e203b82ebac8998f2cdd8660fe2977fbb1aef4b32296a3c8b826f5667a370a",
+    "careerCode": "UL",
+    "flight_code": "UL-134",
+    "flight_name": "SriLankan",
+    "stops": "2 Stops",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T15:30:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-10-01T00:50:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "UL-134",
+      "UL-141",
+      "AI-576"
+    ],
+    "duration": {
+      "text": "33h 20m",
+      "value": 2000
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "CMB",
+        "stopDuration": 430
+      },
+      "1": {
+        "airport": "BOM",
+        "stopDuration": 1250
+      }
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 54981.18,
+      "tax": 15838.2,
+      "base": 39142.98
+    }
+  },
+  {
+    "id": "a7b4e1281b54af6584438ad2639c60b87be42d1568ee028fd5fd5e6ebb584338",
+    "careerCode": "SQ",
+    "flight_code": "SQ-8369",
+    "flight_name": "Singapore International Airlines",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T01:30:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-09-29T22:00:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "SQ-8369",
+      "SQ-528"
+    ],
+    "duration": {
+      "text": "20h 30m",
+      "value": 1230
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "SIN",
+        "stopDuration": 715
+      }
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 60185.16,
+      "tax": 11086.74,
+      "base": 49098.420000000006
+    }
+  },
+  {
+    "id": "f93b2cb71078832009fe27a500d4aa733e3054b2a7bf9ce84f77ca0aee03583c",
+    "careerCode": "SQ",
+    "flight_code": "SQ-8367",
+    "flight_name": "Singapore International Airlines",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T23:50:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-09-30T22:00:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "SQ-8367",
+      "SQ-528"
+    ],
+    "duration": {
+      "text": "22h 10m",
+      "value": 1330
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "SIN",
+        "stopDuration": 815
+      }
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 60185.16,
+      "tax": 11086.74,
+      "base": 49098.420000000006
+    }
+  },
+  {
+    "id": "0dc48c8304305024c99a10925c1560698fee86b036f34039b79cbf654258d09a",
+    "careerCode": "SQ",
+    "flight_code": "SQ-8369",
+    "flight_name": "Singapore International Airlines",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T01:30:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-09-30T00:20:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "SQ-8369",
+      "SQ-526"
+    ],
+    "duration": {
+      "text": "22h 50m",
+      "value": 1370
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "SIN",
+        "stopDuration": 860
+      }
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 60185.16,
+      "tax": 11086.74,
+      "base": 49098.420000000006
+    }
+  },
+  {
+    "id": "2a0e14f92f3819db4b5c618d27067f6c585cea37f2fd7c81c0d3161281f1c64e",
+    "careerCode": "SQ",
+    "flight_code": "SQ-8367",
+    "flight_name": "Singapore International Airlines",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T23:50:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-10-01T00:20:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "SQ-8367",
+      "SQ-526"
+    ],
+    "duration": {
+      "text": "24h 30m",
+      "value": 1470
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "SIN",
+        "stopDuration": 960
+      }
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 60185.16,
+      "tax": 11086.74,
+      "base": 49098.420000000006
+    }
+  },
+  {
+    "id": "50a805b4b8558e7cd6a61ebe2ef16a02d9aea498af7189e8fd20fcb7b8a221ca",
+    "careerCode": "SQ",
+    "flight_code": "SQ-8369",
+    "flight_name": "Singapore International Airlines",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T01:30:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-09-30T09:20:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "SQ-8369",
+      "SQ-524"
+    ],
+    "duration": {
+      "text": "31h 50m",
+      "value": 1910
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "SIN",
+        "stopDuration": 1390
+      }
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 60185.16,
+      "tax": 11086.74,
+      "base": 49098.420000000006
+    }
+  },
+  {
+    "id": "9c69fefe981ecce5b246aeca094da00c198d3cea2b9eed96f7cff914d2c75202",
+    "careerCode": "UL",
+    "flight_code": "UL-134",
+    "flight_name": "SriLankan",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T15:30:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-09-30T04:25:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "UL-134",
+      "AI-274"
+    ],
+    "duration": {
+      "text": "12h 55m",
+      "value": 775
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "CMB",
+        "stopDuration": 630
+      }
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 152272.98,
+      "tax": 17648.280000000002,
+      "base": 134624.7
+    }
+  },
+  {
+    "id": "aed5d8543060ab5d5e4bd960be09a86dd524221da746e13a1d753616be53d16b",
+    "careerCode": "UL",
+    "flight_code": "UL-134",
+    "flight_name": "SriLankan",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG",
+        "allowance": 7
+      },
+      "checkIn": {
+        "allowance": 30,
+        "qty": "W",
+        "unit": "K",
+        "text": "30 KG",
+        "refNumber": 1,
+        "totalWeight": 30,
+        "quantity": 1
+      }
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T15:30:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-09-30T15:40:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "UL-134",
+      "AI-272"
+    ],
+    "duration": {
+      "text": "24h 10m",
+      "value": 1450
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "CMB",
+        "stopDuration": 1305
+      }
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 152272.98,
+      "tax": 17648.280000000002,
+      "base": 134624.7
+    }
+  },
+  {
+    "id": "ba1903f85a08eefe3c290f796d9b3b99b8dd570640de47e8b411b71dc470a07f",
+    "careerCode": "6E",
+    "flight_code": "6E-7101",
+    "flight_name": "Indigo",
+    "stops": "Direct",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "allowance": 7,
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG"
+      },
+      "checkIn": {
+        "allowance": 15,
+        "unit": "KG",
+        "qty": 1,
+        "text": "15 KG",
+        "totalWeight": 15,
+        "quantity": 1
+      },
+      "baggageOptionsAvailable": false
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T08:30:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-09-29T09:40:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "6E-7101"
+    ],
+    "duration": {
+      "text": "01h 10m",
+      "value": 70
+    },
+    "stopSummary": {
+      "connectingTime": null
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 4615.704000000001,
+      "tax": null,
+      "base": 4615.704000000001
+    }
+  },
+  {
+    "id": "0967ea66e3759e6b5d75f09e4e424721e34688f52707e0c321872b98cc472416",
+    "careerCode": "6E",
+    "flight_code": "6E-7101",
+    "flight_name": "Indigo",
+    "stops": "Direct",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "allowance": 7,
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG"
+      },
+      "checkIn": null,
+      "baggageOptionsAvailable": true
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T08:30:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-09-29T09:40:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "6E-7101"
+    ],
+    "duration": {
+      "text": "01h 10m",
+      "value": 70
+    },
+    "stopSummary": {
+      "connectingTime": null
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 4977.72,
+      "tax": null,
+      "base": 4977.72
+    }
+  },
+  {
+    "id": "a27fea423a3be22e7c23aaea60f6e0d685c6ae325aff8fe579cb28910119bcaa",
+    "careerCode": "6E",
+    "flight_code": "6E-7365",
+    "flight_name": "Indigo",
+    "stops": "Direct",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "allowance": 7,
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG"
+      },
+      "checkIn": {
+        "allowance": 15,
+        "unit": "KG",
+        "qty": 1,
+        "text": "15 KG",
+        "totalWeight": 15,
+        "quantity": 1
+      },
+      "baggageOptionsAvailable": false
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T11:20:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-09-29T12:20:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "6E-7365"
+    ],
+    "duration": {
+      "text": "01h 00m",
+      "value": 60
+    },
+    "stopSummary": {
+      "connectingTime": null
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 4615.704000000001,
+      "tax": null,
+      "base": 4615.704000000001
+    }
+  },
+  {
+    "id": "e381c867b25ee34fa4a59e89997e87c64302ec67f8d577b39527d84f415da9fd",
+    "careerCode": "6E",
+    "flight_code": "6E-7365",
+    "flight_name": "Indigo",
+    "stops": "Direct",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "allowance": 7,
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG"
+      },
+      "checkIn": null,
+      "baggageOptionsAvailable": true
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T11:20:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-09-29T12:20:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "6E-7365"
+    ],
+    "duration": {
+      "text": "01h 00m",
+      "value": 60
+    },
+    "stopSummary": {
+      "connectingTime": null
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 4977.72,
+      "tax": null,
+      "base": 4977.72
+    }
+  },
+  {
+    "id": "557f1348eba92e935cb00f906fa89bc2bfe2d05c7cbb647dc98a947dc1b041d8",
+    "careerCode": "6E",
+    "flight_code": "6E-7268",
+    "flight_name": "Indigo",
+    "stops": "Direct",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "allowance": 7,
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG"
+      },
+      "checkIn": {
+        "allowance": 15,
+        "unit": "KG",
+        "qty": 1,
+        "text": "15 KG",
+        "totalWeight": 15,
+        "quantity": 1
+      },
+      "baggageOptionsAvailable": false
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T14:40:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-09-29T15:45:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "6E-7268"
+    ],
+    "duration": {
+      "text": "01h 05m",
+      "value": 65
+    },
+    "stopSummary": {
+      "connectingTime": null
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 6516.2880000000005,
+      "tax": null,
+      "base": 6516.2880000000005
+    }
+  },
+  {
+    "id": "301acf266661284766af755114e87d00420f3b6a83af923b8b894a9ed075b776",
+    "careerCode": "6E",
+    "flight_code": "6E-7268",
+    "flight_name": "Indigo",
+    "stops": "Direct",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "allowance": 7,
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG"
+      },
+      "checkIn": null,
+      "baggageOptionsAvailable": true
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T14:40:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-09-29T15:45:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "6E-7268"
+    ],
+    "duration": {
+      "text": "01h 05m",
+      "value": 65
+    },
+    "stopSummary": {
+      "connectingTime": null
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 7036.686000000001,
+      "tax": null,
+      "base": 7036.686000000001
+    }
+  },
+  {
+    "id": "5cdaf297a1deb9b0c5f2a4d86d12869a2044c2473a201e62edee09a2d42d1c59",
+    "careerCode": "6E",
+    "flight_code": "6E-7151",
+    "flight_name": "Indigo",
+    "stops": "Direct",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "allowance": 7,
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG"
+      },
+      "checkIn": {
+        "allowance": 15,
+        "unit": "KG",
+        "qty": 1,
+        "text": "15 KG",
+        "totalWeight": 15,
+        "quantity": 1
+      },
+      "baggageOptionsAvailable": false
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T21:55:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-09-29T23:00:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "6E-7151"
+    ],
+    "duration": {
+      "text": "01h 05m",
+      "value": 65
+    },
+    "stopSummary": {
+      "connectingTime": null
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 4864.59,
+      "tax": null,
+      "base": 4864.59
+    }
+  },
+  {
+    "id": "119029d6f61fd602a94760a3277ba5ef0ef0f00903cdba064e4ef3f8f47bd28f",
+    "careerCode": "6E",
+    "flight_code": "6E-7151",
+    "flight_name": "Indigo",
+    "stops": "Direct",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "allowance": 7,
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG"
+      },
+      "checkIn": null,
+      "baggageOptionsAvailable": true
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T21:55:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-09-29T23:00:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "6E-7151"
+    ],
+    "duration": {
+      "text": "01h 05m",
+      "value": 65
+    },
+    "stopSummary": {
+      "connectingTime": null
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 5271.858,
+      "tax": null,
+      "base": 5271.858
+    }
+  },
+  {
+    "id": "2c84b8d636d04faede3661ed62ce8f3ce5e11c3b1fecea0ee5544464ba0b8c8e",
+    "careerCode": "6E",
+    "flight_code": "6E-7245",
+    "flight_name": "Indigo",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "allowance": 7,
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG"
+      },
+      "checkIn": {
+        "allowance": 15,
+        "unit": "KG",
+        "qty": 1,
+        "text": "15 KG",
+        "totalWeight": 15,
+        "quantity": 1
+      },
+      "baggageOptionsAvailable": false
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T07:55:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-09-29T12:35:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "6E-7245",
+      "6E-6189"
+    ],
+    "duration": {
+      "text": "04h 40m",
+      "value": 280
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "BLR",
+        "stopDuration": 140
+      },
+      "connectingTime": null
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 5430.240000000001,
+      "tax": null,
+      "base": 5430.240000000001
+    }
+  },
+  {
+    "id": "44b10bdf7f0ad74891f66d57aa4604e807ae91309257fde1d3024815b4fce690",
+    "careerCode": "6E",
+    "flight_code": "6E-7245",
+    "flight_name": "Indigo",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "allowance": 7,
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG"
+      },
+      "checkIn": null,
+      "baggageOptionsAvailable": true
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T07:55:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-09-29T12:35:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "6E-7245",
+      "6E-6189"
+    ],
+    "duration": {
+      "text": "04h 40m",
+      "value": 280
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "BLR",
+        "stopDuration": 140
+      },
+      "connectingTime": null
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 6086.394,
+      "tax": null,
+      "base": 6086.394
+    }
+  },
+  {
+    "id": "cf51dddc595af91f685b064a8b1dbc334ca98e5b3c3dfb1e2ab3ba32fa793f47",
+    "careerCode": "6E",
+    "flight_code": "6E-7279",
+    "flight_name": "Indigo",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "allowance": 7,
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG"
+      },
+      "checkIn": {
+        "allowance": 15,
+        "unit": "KG",
+        "qty": 1,
+        "text": "15 KG",
+        "totalWeight": 15,
+        "quantity": 1
+      },
+      "baggageOptionsAvailable": false
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T18:05:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-09-30T00:50:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "6E-7279",
+      "6E-482"
+    ],
+    "duration": {
+      "text": "06h 45m",
+      "value": 405
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "BLR",
+        "stopDuration": 275
+      },
+      "connectingTime": null
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 11561.886,
+      "tax": null,
+      "base": 11561.886
+    }
+  },
+  {
+    "id": "37da84fe7eda413f5c48cb2b93b00a98abe0aa4573dc70bfde52537a28c8ca49",
+    "careerCode": "6E",
+    "flight_code": "6E-7279",
+    "flight_name": "Indigo",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "allowance": 7,
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG"
+      },
+      "checkIn": null,
+      "baggageOptionsAvailable": true
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T18:05:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-09-30T00:50:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "6E-7279",
+      "6E-482"
+    ],
+    "duration": {
+      "text": "06h 45m",
+      "value": 405
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "BLR",
+        "stopDuration": 275
+      },
+      "connectingTime": null
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 12399.048,
+      "tax": null,
+      "base": 12399.048
+    }
+  },
+  {
+    "id": "914aaf7adc2c325ef1452a66ff6e4e36bb9ea2f72c767961898a68ad2a0ce493",
+    "careerCode": "6E",
+    "flight_code": "6E-7166",
+    "flight_name": "Indigo",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "allowance": 7,
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG"
+      },
+      "checkIn": {
+        "allowance": 15,
+        "unit": "KG",
+        "qty": 1,
+        "text": "15 KG",
+        "totalWeight": 15,
+        "quantity": 1
+      },
+      "baggageOptionsAvailable": false
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T22:30:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-09-30T08:15:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "6E-7166",
+      "6E-6269"
+    ],
+    "duration": {
+      "text": "09h 45m",
+      "value": 585
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "BLR",
+        "stopDuration": 455
+      },
+      "connectingTime": null
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 9321.912,
+      "tax": null,
+      "base": 9321.912
+    }
+  },
+  {
+    "id": "53619747a838ba89ff637c9595fbf85a2923c25d3849d3cead38e1e2f68635d0",
+    "careerCode": "6E",
+    "flight_code": "6E-7166",
+    "flight_name": "Indigo",
+    "stops": "1 Stop",
+    "cabinType": "Economy",
+    "baggage": {
+      "cabin": {
+        "allowance": 7,
+        "qty": 1,
+        "unit": "KG",
+        "text": "7 KG"
+      },
+      "checkIn": null,
+      "baggageOptionsAvailable": true
+    },
+    "currency": "INR",
+    "departureAirport": {
+      "time": "2023-09-29T22:30:00",
+      "code": "TRZ",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "4",
+      "label": "Tiruchirapalli International Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Tiruchirappalli"
+    },
+    "arrivalAirport": {
+      "time": "2023-09-30T08:15:00",
+      "code": "MAA",
+      "tz": "Asia/Kolkata",
+      "timeZone": "5.50",
+      "type": "2",
+      "label": "Chennai Airport",
+      "country": {
+        "label": "India",
+        "code": "IN"
+      },
+      "city": "Chennai"
+    },
+    "path": [
+      "6E-7166",
+      "6E-6269"
+    ],
+    "duration": {
+      "text": "09h 45m",
+      "value": 585
+    },
+    "stopSummary": {
+      "0": {
+        "airport": "BLR",
+        "stopDuration": 455
+      },
+      "connectingTime": null
+    },
+    "totals": {
+      "currency": "INR",
+      "baggage": null,
+      "penalty": null,
+      "total": 10249.578000000001,
+      "tax": null,
+      "base": 10249.578000000001
+    }
+  }
+]
+}
